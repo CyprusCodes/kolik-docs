@@ -1,0 +1,8 @@
+{
+    "label": "Evaluations",
+    "position": 5,
+    "link": {
+        "type": "generated-index"
+    },
+    "description": "Test and evaluate your AI assistants"
+}
