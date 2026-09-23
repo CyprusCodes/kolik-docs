@@ -16,7 +16,7 @@ const config: Config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "CyprusCodes", // Usually your GitHub org/user name.
-  projectName: "cmnd-docs", // Usually your repo name.
+  projectName: "kolik-docs", // Usually your repo name.
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -38,14 +38,14 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           // editUrl:
-          //   "https://github.com/CyprusCodes/cmnd-docs/tree/main",
+          //   "https://github.com/CyprusCodes/kolik-docs/tree/main",
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           // editUrl:
-          //   "https://github.com/CyprusCodes/cmnd-docs/tree/main",
+          //   "https://github.com/CyprusCodes/kolik-docs/tree/main",
         },
         theme: {
           customCss: "./src/css/custom.css",
@@ -71,7 +71,7 @@ const config: Config = {
         },
         { to: "/blog", label: "Blog", position: "left" },
         {
-          href: "https://github.com/CyprusCodes/cmnd-docs",
+          href: "https://github.com/CyprusCodes/kolik-docs",
           label: "GitHub",
           position: "right",
         },

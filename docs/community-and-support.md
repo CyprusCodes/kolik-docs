@@ -27,7 +27,7 @@ We're committed to helping you succeed with the Kolik platform. Whether you need
 
 ## Contributing
 
-We welcome contributions to any part of our Open Source Projects! Whether you're interested in enhancing LLM Proxy, check out our [contribution guidelines](https://github.com/CyprusCodes/cmnd/blob/main/CONTRIBUTING.md) to get started.
+We welcome contributions to any part of our Open Source Projects! Whether you're interested in enhancing LLM Proxy, check out our [contribution guidelines](https://github.com/CyprusCodes/kolik-docs/blob/main/CONTRIBUTING.md) to get started.
 
 :::info Coming Soon
 We're building a community Discord server where you'll be able to chat with other developers, get real-time support, and participate in discussions about the future of Kolik.
