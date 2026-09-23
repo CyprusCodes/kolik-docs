@@ -1,16 +1,16 @@
 ---
 id: styles-and-configurations
 title: Styles & Configurations
-description: Customization options for the CMND Embed Widget
+description: Customization options for the Kolik Embed Widget
 sidebar_position: 2
 ---
 
 # Configurations
 
-The CMND Embed Widget offers extensive customization through two types of configurations:
+The Kolik Embed Widget offers extensive customization through two types of configurations:
 
 1. **Hardcoded configurations**: Set during initialization
-2. **Inherited configurations**: Managed through the CMND dashboard
+2. **Inherited configurations**: Managed through the Kolik dashboard
 
 ## Hardcoded Configurations
 
@@ -66,7 +66,7 @@ The order of configuration parameters doesn't matter.
 
 ## Inherited Configurations
 
-These configurations are set through the [CMND Dashboard](https://app.cmnd.ai/chatbots) and automatically applied to your widget. They control the visual appearance and behavior of the widget.
+These configurations are set through the [Kolik Dashboard](https://app.kolik.co/chatbots) and automatically applied to your widget. They control the visual appearance and behavior of the widget.
 
 ### Message Bubble Styles
 
@@ -143,7 +143,7 @@ These configurations are set through the [CMND Dashboard](https://app.cmnd.ai/ch
 :::info
 To modify any of these inherited configurations:
 
-1. Navigate to your chatbots in your [CMND Dashboard](https://app.cmnd.ai/chatbots)
+1. Navigate to your chatbots in your [Kolik Dashboard](https://app.kolik.co/chatbots)
 2. Select your embed widget chatbot settings
 3. Select the **Theme** tab
 4. Make your desired customizations

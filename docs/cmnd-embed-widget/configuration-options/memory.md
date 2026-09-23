@@ -9,11 +9,11 @@ sidebar_position: 2
 
 ## Overview
 
-The CMND Memory system allows your chatbot to maintain contextual information and user data across multiple chat sessions. This enables personalized interactions and continuity in conversations even after the user refreshes the page or returns later.
+The Kolik Memory system allows your chatbot to maintain contextual information and user data across multiple chat sessions. This enables personalized interactions and continuity in conversations even after the user refreshes the page or returns later.
 
 ## Working with Memory
 
-CMND provides three primary methods for managing conversation memory:
+Kolik provides three primary methods for managing conversation memory:
 
 | Method                            | Description                                     | Available When     |
 | --------------------------------- | ----------------------------------------------- | ------------------ |
@@ -23,7 +23,7 @@ CMND provides three primary methods for managing conversation memory:
 
 ## Initial Memory
 
-When initializing the CMND Chat widget, you can provide initial memory values using the `initialMemory` command. These values will be available immediately when the chat session begins.
+When initializing the Kolik Chat widget, you can provide initial memory values using the `initialMemory` command. These values will be available immediately when the chat session begins.
 
 ```jsx title="JavaScript" showLineNumbers
 window
@@ -107,7 +107,7 @@ Like `setCurrentConversationMemory`, the delete method also requires an active c
 
 ## Sample Implememntation
 
-Here's a practical example showing how to initialize the CMND Chat widget with user information, set and delete the information:
+Here's a practical example showing how to initialize the Kolik Chat widget with user information, set and delete the information:
 
 ```html title="HTML" showLineNumbers
 <!DOCTYPE html>
@@ -115,12 +115,12 @@ Here's a practical example showing how to initialize the CMND Chat widget with u
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>CMND Chat with Initial Memory</title>
-    <script src="https://embed.cmnd.ai/widget.js"></script>
+    <title>Kolik Chat with Initial Memory</title>
+    <script src="https://embed.kolik.co/widget.js"></script>
   </head>
   <body>
     <script>
-      // Initialize CMND widget with initial memory
+      // Initialize Kolik widget with initial memory
       window
         .cmndChat("init", {
           chatbot_id: "YOUR_CHATBOT_ID",

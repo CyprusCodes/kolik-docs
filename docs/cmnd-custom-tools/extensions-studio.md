@@ -1,7 +1,7 @@
 ---
 id: extensions-studio
-title: CMND Extensions Studio
-description: Create and deploy custom tools easily inside CMND using the Extensions Studio.
+title: Kolik Extensions Studio
+description: Create and deploy custom tools easily inside Kolik using the Extensions Studio.
 sidebar_position: 3
 ---
 
@@ -10,21 +10,21 @@ import TabItem from '@theme/TabItem';
 
 # Extensions Studio
 
-The CMND Extensions Studio provides an easier way to create and connect custom tools to CMND — without needing to deploy your own server.
+The Kolik Extensions Studio provides an easier way to create and connect custom tools to Kolik — without needing to deploy your own server.
 
-It offers the same functionality as building through the Extensions API, but streamlines the process by allowing you to develop, configure, and host your tool directly inside the CMND platform.
+It offers the same functionality as building through the Extensions API, but streamlines the process by allowing you to develop, configure, and host your tool directly inside the Kolik platform.
 
 :::note
-This guide walks through how to create and deploy a custom tool using JavaScript or Python inside the CMND Extensions Studio.
+This guide walks through how to create and deploy a custom tool using JavaScript or Python inside the Kolik Extensions Studio.
 :::
 
 ---
 
 ## How to Use the Extensions Studio
 
-### 1. Open the CMND Dashboard
+### 1. Open the Kolik Dashboard
 
-- Go to [app.cmnd.ai](https://app.cmnd.ai) and log in to your account.
+- Go to [app.kolik.co](https://app.kolik.co) and log in to your account.
 - From the sidebar, navigate to the **Connections** section.
 
   ![Connections Sidebar](../../static/img/integrations/connections.png)
@@ -33,9 +33,9 @@ This guide walks through how to create and deploy a custom tool using JavaScript
 
 ### 2. Launch the Extensions Studio
 
-- In the search bar, enter "CMND Extension Studio" and select it from the results.
+- In the search bar, enter "Kolik Extension Studio" and select it from the results.
 
-  ![CMND Extensions Studio](../../static/img/integrations/cmnd-extensions-studio.png)
+  ![Kolik Extensions Studio](../../static/img/integrations/cmnd-extensions-studio.png)
 
 ---
 
@@ -139,7 +139,7 @@ module.exports = tools;
 
 - Use **Yup** to define your input schema
 - Implement the tool logic
-- Export your tool properly for CMND to pick up
+- Export your tool properly for Kolik to pick up
 
 </TabItem>
 </Tabs>
@@ -151,9 +151,9 @@ module.exports = tools;
 Once you finish defining your tool:
 
 - Click the **Deploy** button in the Extensions Studio editor.
-- CMND will build and host the tool for you automatically.
+- Kolik will build and host the tool for you automatically.
 - Your tool will be available immediately inside the platform for use in conversations and assistants.
 
 ---
 
-The CMND Extensions Studio allows you to go from an idea to a live, integrated tool — without worrying about servers, hosting, or infrastructure.
+The Kolik Extensions Studio allows you to go from an idea to a live, integrated tool — without worrying about servers, hosting, or infrastructure.

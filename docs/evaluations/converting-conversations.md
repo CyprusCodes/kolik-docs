@@ -6,7 +6,7 @@ sidebar_position: 5
 
 # Converting Conversations to Evaluations
 
-CMND.ai allows you to **convert real conversations into evaluation test cases**. This is a powerful way to:
+Kolik allows you to **convert real conversations into evaluation test cases**. This is a powerful way to:
 
 - Create regression tests from production conversations
 - Capture edge cases that occurred in real usage

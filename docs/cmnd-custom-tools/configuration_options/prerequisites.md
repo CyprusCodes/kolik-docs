@@ -1,13 +1,13 @@
 ---
 id: prerequisites
 title: Prerequisites
-description: How to enforce execution order between tools in CMND using the `prerequisites` attribute.
+description: How to enforce execution order between tools in Kolik using the `prerequisites` attribute.
 sidebar_position: 4
 ---
 
 # Prerequisites
 
-In some workflows, tools depend on the output of others — and running them in the wrong order could break logic or result in incomplete behavior. To handle this, CMND supports a `prerequisites` attribute in the tool configuration.
+In some workflows, tools depend on the output of others — and running them in the wrong order could break logic or result in incomplete behavior. To handle this, Kolik supports a `prerequisites` attribute in the tool configuration.
 
 The `prerequisites` array defines a list of tool names that **must be executed first** before the current tool becomes available.
 
@@ -63,4 +63,4 @@ In this configuration, the tool `echo_username` is only available after both `pr
 
 ## Summary
 
-The `prerequisites` attribute adds logical structure and flow control to your assistant tools in CMND. It ensures tools are only available when their dependencies have been satisfied, making your assistant behavior more intentional, robust, and context-aware.
+The `prerequisites` attribute adds logical structure and flow control to your assistant tools in Kolik. It ensures tools are only available when their dependencies have been satisfied, making your assistant behavior more intentional, robust, and context-aware.

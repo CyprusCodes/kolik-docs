@@ -1,16 +1,16 @@
 ---
 id: custom-tool-js
 title: Build a Custom Tool – JavaScript
-description: How to build a CMND Custom Tool using JavaScript
+description: How to build a Kolik Custom Tool using JavaScript
 sidebar_position: 1
 ---
 
 # Build a Custom Tool – JavaScript
 
-Custom Tools allow you to connect your own backend logic to CMND.ai and make it callable inside assistant conversations.
+Custom Tools allow you to connect your own backend logic to Kolik and make it callable inside assistant conversations.
 
 :::note
-This guide walks through how to create and expose your own tool using JavaScript via a Node.js server, and make it available to CMND through a public endpoint.
+This guide walks through how to create and expose your own tool using JavaScript via a Node.js server, and make it available to Kolik through a public endpoint.
 :::
 
 ---
@@ -18,7 +18,7 @@ This guide walks through how to create and expose your own tool using JavaScript
 ## Prerequisites
 
 - Node.js and npm installed
-- A CMND.ai account and chatbot
+- A Kolik account and chatbot
 - Ngrok or any alternative tunneling tool
 
 ---
@@ -53,7 +53,7 @@ API_KEY=your_api_key_here
 npm start
 ```
 
-Once running, your tool server will be available locally. You’ll need to make it publicly accessible to use it in CMND.
+Once running, your tool server will be available locally. You’ll need to make it publicly accessible to use it in Kolik.
 
 ---
 
@@ -108,7 +108,7 @@ module.exports = tools;
 
 ## Make It Public with Ngrok
 
-To allow CMND to call your local server, expose it using Ngrok:
+To allow Kolik to call your local server, expose it using Ngrok:
 
 ```bash
 ngrok http 8000
@@ -116,7 +116,7 @@ ngrok http 8000
 
 > Ensure the port in your `.env` matches the port you’re exposing.
 
-The public HTTPS URL returned by Ngrok is what you’ll register in CMND when adding the tool.
+The public HTTPS URL returned by Ngrok is what you’ll register in Kolik when adding the tool.
 
 ---
 
@@ -128,7 +128,7 @@ If your tool uses third-party APIs, store sensitive keys in your `.env` file and
 
 ## What’s Next?
 
-- Add your public tool URL in the CMND dashboard
+- Add your public tool URL in the Kolik dashboard
 - Use the tool in assistant conversations
 - Chain or combine it with other tools as needed
 

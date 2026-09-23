@@ -5,15 +5,15 @@ description: What is it and what does it offer?
 sidebar_position: 1
 ---
 
-# CMND React SDK
+# Kolik React SDK
 
-The CMND React SDK is built to help developers bring CMND-powered AI chatbots into any React application quickly and cleanly. It gives you the components, context, and flexibility you need — without having to wire everything up from scratch.
+The Kolik React SDK is built to help developers bring Kolik-powered AI chatbots into any React application quickly and cleanly. It gives you the components, context, and flexibility you need — without having to wire everything up from scratch.
 
 ---
 
-### What can you do with the CMND React SDK?
+### What can you do with the Kolik React SDK?
 
-- **Embed a chatbot** — Integrate your CMND chatbot into any React app using a few lines of code.
+- **Embed a chatbot** — Integrate your Kolik chatbot into any React app using a few lines of code.
 - **Customize the interface** — Override the default input, send button, message display, and more using your own React components.
 - **Configure layout and styles** — Adjust the look and feel using props, themes, or classNames to make it feel native to your UI.
 - **Access and manage memory** — Control how the chatbot handles memory, context, and resets using props and hooks.

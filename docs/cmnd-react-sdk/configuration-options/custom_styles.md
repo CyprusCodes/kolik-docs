@@ -1,7 +1,7 @@
 ---
 id: custom-styles
 title: Custom Styles
-description: Customize the appearance of your CMND chatbot using the customStyles prop.
+description: Customize the appearance of your Kolik chatbot using the customStyles prop.
 sidebar_position: 2
 ---
 
@@ -9,7 +9,7 @@ sidebar_position: 2
 
 ## Introduction
 
-The CMND React SDK allows you to customize the CSS styles of the chat interface using the `customStyles` prop. This provides a flexible way to adjust the appearance of various chat elements without needing to create custom components.
+The Kolik React SDK allows you to customize the CSS styles of the chat interface using the `customStyles` prop. This provides a flexible way to adjust the appearance of various chat elements without needing to create custom components.
 
 <div className="card">
   <div className="card__header">

@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # WhatsApp Chatbot Integration
 
-This guide explains how to integrate a WhatsApp chatbot with CMND, enabling automated messaging and customer interactions through WhatsApp's platform.
+This guide explains how to integrate a WhatsApp chatbot with Kolik, enabling automated messaging and customer interactions through WhatsApp's platform.
 
 ## Prerequisites
 
@@ -12,7 +12,7 @@ Before getting started, ensure you have:
 
 - A Facebook Account.
 - A Meta Developer Account: [Create a Meta Developer Account](https://developers.facebook.com/docs/development/register).
-- A CMND account with chatbot creation access.
+- A Kolik account with chatbot creation access.
 
 ## Steps to Set Up WhatsApp API
 
@@ -53,16 +53,16 @@ Navigate to [Meta developers platform](https://developers.facebook.com/apps/).
   :::
   ![access token](../../static/img/whatsapp_chatbot_integration_steps_images/image-10.png)
 
-### 3. Integrating with CMND
+### 3. Integrating with Kolik
 
-- Go to the **embed** tab of your chatbot settings on CMND and select **Use on Chat Platform** and click **Add Credentials**.
+- Go to the **embed** tab of your chatbot settings on Kolik and select **Use on Chat Platform** and click **Add Credentials**.
   ![Embed chatbot](../../static/img/whatsapp_chatbot_integration_steps_images/image-8.png)
 
 - Copy the following details from your Meta App dashboard:
   - **Phone number ID** (labeled as _Phone Id_)
   - **WhatsApp Business Account ID** (labeled as _Account Id_)
   - **Access token** <br/>
-    Paste these credentials into the **Add WhatsApp Credentials** modal in CMND and
+    Paste these credentials into the **Add WhatsApp Credentials** modal in Kolik and
     click **Submit** to save your configuration.
     ![modal](../../static/img/whatsapp_chatbot_integration_steps_images/image-11.png)
     :::note
@@ -82,7 +82,7 @@ Navigate to [Meta developers platform](https://developers.facebook.com/apps/).
 - If your Meta developers account is not verified you may select a test number on the **From** field and add or select an active whatsapp phone number in the **To** field.
 - You will need to generate a new access token to send a test message.
   :::warning
-  Do not forget to update your access token on CMND whenever you generate a new one.
+  Do not forget to update your access token on Kolik whenever you generate a new one.
   :::
 
 - Proceed by clicking **Send message**

@@ -1,7 +1,7 @@
 ---
 id: memory
 title: Memory Management
-description: Learn how to store and manage conversation context in your CMND chatbot.
+description: Learn how to store and manage conversation context in your Kolik chatbot.
 sidebar_position: 3
 ---
 
@@ -9,7 +9,7 @@ sidebar_position: 3
 
 ## Introduction
 
-The CMND React SDK provides memory management capabilities that allow you to store and manage conversation context through the `initialMemory` prop and memory management functions.
+The Kolik React SDK provides memory management capabilities that allow you to store and manage conversation context through the `initialMemory` prop and memory management functions.
 
 :::note
 This guide contains information on how to initialize memory values, update conversation memory during runtime, and remove specific memory keys from active conversations.

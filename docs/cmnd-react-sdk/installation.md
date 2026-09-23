@@ -1,16 +1,16 @@
 ---
 id: installation
 title: Installation & Setup
-description: How to install and set up the CMND React SDK in your React application.
+description: How to install and set up the Kolik React SDK in your React application.
 sidebar_position: 2
 ---
 
 # Installation & Setup
 
-The CMND React SDK makes it easy to embed a customizable chatbot in your React application.
+The Kolik React SDK makes it easy to embed a customizable chatbot in your React application.
 
 :::info Prerequisites
-Before you begin, make sure you have the following from the "Embed" tab of your [CMND Chatbot Dashboard](https://app.cmnd.ai):
+Before you begin, make sure you have the following from the "Embed" tab of your [Kolik Chatbot Dashboard](https://app.kolik.co):
 :::
 
 <div className="table-container">
@@ -26,7 +26,7 @@ Before you begin, make sure you have the following from the "Embed" tab of your 
       <tr>
         <td><code>baseUrl</code></td>
         <td>string</td>
-        <td>The CMND API base URL (usually <code>https://api.cmnd.ai</code>)</td>
+        <td>The Kolik API base URL (usually <code>https://api.kolik.co</code>)</td>
       </tr>
       <tr>
         <td><code>chatbotId</code></td>
@@ -95,7 +95,7 @@ Wrap your app (or the part where you want the chatbot to be available) with the 
 const App = () => {
   return (
     <ChatProvider
-      baseUrl="https://api.cmnd.ai"
+      baseUrl="https://api.kolik.co"
       chatbotId={YOUR_CHATBOT_ID}
       organizationId={YOUR_ORG_ID}
     >
@@ -109,7 +109,7 @@ export default App;
 ```
 
 :::caution
-Remember to replace `YOUR_CHATBOT_ID` and `YOUR_ORG_ID` with the actual values from your CMND dashboard.
+Remember to replace `YOUR_CHATBOT_ID` and `YOUR_ORG_ID` with the actual values from your Kolik dashboard.
 :::
 
 <details>
@@ -125,7 +125,7 @@ const App = () => {
   return (
     <div className="app">
       <header className="app-header">
-        <h1>My Application with CMND Chatbot</h1>
+        <h1>My Application with Kolik Chatbot</h1>
       </header>
 
       <main className="app-content">
@@ -134,7 +134,7 @@ const App = () => {
       </main>
 
       <ChatProvider
-        baseUrl="https://api.cmnd.ai"
+        baseUrl="https://api.kolik.co"
         chatbotId="your-chatbot-id"
         organizationId="your-org-id"
       >
@@ -151,5 +151,5 @@ export default App;
 </details>
 
 :::tip
-Want to see it all together in a working app? Check out the open-source example: [CMND React Chatbot Example on GitHub](https://github.com/cmnd-ai/chatbot-react-example)
+Want to see it all together in a working app? Check out the open-source example: [Kolik React Chatbot Example on GitHub](https://github.com/cmnd-ai/chatbot-react-example)
 :::

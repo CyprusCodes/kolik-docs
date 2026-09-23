@@ -1,25 +1,25 @@
 ---
 id: quickstart
-title: Quickstart with CMND.ai
+title: Quickstart with Kolik
 sidebar_position: 1
 ---
 
-# Quickstart with CMND.ai
+# Quickstart with Kolik
 
-To get you started, this guide will walk you through the simplest way to use CMND.ai — by creating a chatbot and embedding it into a React application.
+To get you started, this guide will walk you through the simplest way to use Kolik — by creating a chatbot and embedding it into a React application.
 
 :::note What you'll achieve
 You'll have a working AI chatbot in your React app in just a few minutes.
 :::
 
-## 1. Create a Chatbot on CMND.ai
+## 1. Create a Chatbot on Kolik
 
-Before jumping into code, you'll need a CMND account.
+Before jumping into code, you'll need a Kolik account.
 
 <details>
 <summary>Don't have an account yet?</summary>
 
-If you don't have a CMND account, [sign up here](https://calendly.com/ersel-aker/cmnd-ai-exploration).
+If you don't have a Kolik account, [sign up here](https://calendly.com/ersel-aker/cmnd-ai-exploration).
 
 </details>
 
@@ -41,7 +41,7 @@ Once you're logged in:
 
 5. Click the **Create Chatbot** button in the top right corner — and just like that, your chatbot is ready to go!
 
-## 2. Install the CMND React SDK
+## 2. Install the Kolik React SDK
 
 Inside your React project, install the SDK:
 
@@ -59,7 +59,7 @@ import { ChatProvider, CmndChatBot } from "@cmnd-ai/chatbot-react";
 const App = () => {
   return (
     <ChatProvider
-      baseUrl="https://api.cmnd.ai"
+      baseUrl="https://api.kolik.co"
       chatbotId={YOUR_CHATBOT_ID}
       organizationId={YOUR_ORG_ID}
     >
@@ -77,8 +77,8 @@ Replace `YOUR_CHATBOT_ID` and `YOUR_ORG_ID` with the actual values provided in t
 
 ## Need a full example?
 
-Check out our open-source example app: [CMND React Chatbot Example on GitHub](https://github.com/CyprusCodes/cmnd-react-chatbot-example)
+Check out our open-source example app: [Kolik React Chatbot Example on GitHub](https://github.com/CyprusCodes/cmnd-react-chatbot-example)
 
 ## 🎉 That's it!
 
-You now have a fully working AI chatbot running inside your React application. From here, you can explore advanced features like connecting tools, building assistants, and customizing your chatbot even further using the CMND React SDK.
+You now have a fully working AI chatbot running inside your React application. From here, you can explore advanced features like connecting tools, building assistants, and customizing your chatbot even further using the Kolik React SDK.

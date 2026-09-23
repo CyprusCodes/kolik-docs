@@ -3,10 +3,9 @@ import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
 
 const config: Config = {
-  title: "CMND",
-  tagline:
-    "Quick Questions Are Never Quick Questions.\n With CMND.ai, They Are.",
-  favicon: "img/cmnd-favicon-v3.png",
+  title: "Kolik",
+  tagline: "Kolik Documentation",
+  favicon: "img/kolik-favicon.svg",
 
   // Set the production url of your site here
   url: "https://your-docusaurus-site.example.com",
@@ -59,10 +58,9 @@ const config: Config = {
     // Replace with your project's social card
     image: "img/docusaurus-social-card.jpg",
     navbar: {
-      title: "CMND",
       logo: {
-        alt: "My Site Logo",
-        src: "img/cmnd-favicon-v2.png",
+        alt: "Kolik",
+        src: "img/kolik-logo.svg",
       },
       items: [
         {
@@ -81,8 +79,7 @@ const config: Config = {
     },
     footer: {
       style: "dark",
-
-      copyright: `Copyright © ${new Date().getFullYear()} CMND Docs by FutureCast.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Kolik by FutureCast.`,
     },
     prism: {
       theme: prismThemes.github,

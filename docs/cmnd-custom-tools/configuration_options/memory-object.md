@@ -123,4 +123,4 @@ For full syntax options, refer to the [EJS Documentation](https://ejs.co/).
 - Memory helps tools share context during a conversation.
 - You can persist and retrieve structured data across tools.
 - Memory values can be injected into prompts using EJS for personalized, dynamic behavior.
-- It's a key part of building multi-step, stateful assistants in CMND.ai.
+- It's a key part of building multi-step, stateful assistants in Kolik.

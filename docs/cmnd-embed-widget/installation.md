@@ -1,7 +1,7 @@
 ---
 id: installation
 title: Installation & Setup
-description: How to install and set up the CMND Embed Widget on your website.
+description: How to install and set up the Kolik Embed Widget on your website.
 sidebar_position: 2
 ---
 
@@ -10,17 +10,17 @@ import TabItem from '@theme/TabItem';
 
 # Installation & Setup
 
-The CMND Embed Widget allows you to add a powerful AI chatbot to your website with minimal effort. No complex frameworks or React required—just add a script to your page and you're ready to go.
+The Kolik Embed Widget allows you to add a powerful AI chatbot to your website with minimal effort. No complex frameworks or React required—just add a script to your page and you're ready to go.
 
 :::note
-This guide walks you through the complete process from creating a chatbot on the CMND platform to embedding it on your website using simple HTML and JavaScript.
+This guide walks you through the complete process from creating a chatbot on the Kolik platform to embedding it on your website using simple HTML and JavaScript.
 :::
 
-## Step 1: Create a Chatbot on CMND.ai
+## Step 1: Create a Chatbot on Kolik
 
-Before adding the widget to your website, you'll need to create a chatbot on the CMND dashboard:
+Before adding the widget to your website, you'll need to create a chatbot on the Kolik dashboard:
 
-1. **Sign up or log in** to your CMND account at [cmnd.ai](https://calendly.com/ersel-aker/cmnd-ai-exploration) if you haven't already
+1. **Sign up or log in** to your Kolik account at [kolik.co](https://calendly.com/ersel-aker/cmnd-ai-exploration) if you haven't already
 
 2. **Navigate to the Chatbots section** in the sidebar
 
@@ -46,10 +46,10 @@ After creation, navigate to the **Embed** tab and copy your `chatbotID` and your
 
 ## Step 2: Add the Widget Script
 
-Add the CMND widget script to your website by placing this code in the `<head>` section of your HTML:
+Add the Kolik widget script to your website by placing this code in the `<head>` section of your HTML:
 
 ```html title="HTML" showLineNumbers
-<script src="https://embed.cmnd.ai/widget.js"></script>
+<script src="https://embed.kolik.co/widget.js"></script>
 ```
 
 This loads the necessary JavaScript to display and operate the chatbot widget.
@@ -65,7 +65,7 @@ window.cmndChat("init", {
 });
 ```
 
-Replace `YOUR_CHATBOT_ID` and `YOUR_ORG_ID` with the values copied from the CMND dashboard.
+Replace `YOUR_CHATBOT_ID` and `YOUR_ORG_ID` with the values copied from the Kolik dashboard.
 
 ## Implementation Examples
 
@@ -78,10 +78,10 @@ Replace `YOUR_CHATBOT_ID` and `YOUR_ORG_ID` with the values copied from the CMND
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>My Website with CMND Chat</title>
+    <title>My Website with Kolik Chat</title>
 
-    <!-- CMND Widget Script -->
-    <script src="https://embed.cmnd.ai/widget.js"></script>
+    <!-- Kolik Widget Script -->
+    <script src="https://embed.kolik.co/widget.js"></script>
 
     <!-- Initialize when DOM is ready -->
     <script>
@@ -113,10 +113,10 @@ When initializing the widget from a script in the `<head>`, always wrap your cod
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>My Website with CMND Chat</title>
+    <title>My Website with Kolik Chat</title>
 
-    <!-- CMND Widget Script -->
-    <script src="https://embed.cmnd.ai/widget.js"></script>
+    <!-- Kolik Widget Script -->
+    <script src="https://embed.kolik.co/widget.js"></script>
   </head>
   <body>
     <!-- Your website content -->
@@ -139,4 +139,4 @@ When placing the initialization script at the end of the `<body>`, no event list
 </TabItem>
 </Tabs>
 
-For additional support, contact our team at [info@cmnd.ai](mailto:info@cmnd.ai).
+For additional support, contact our team at [info@kolik.co](mailto:info@kolik.co).

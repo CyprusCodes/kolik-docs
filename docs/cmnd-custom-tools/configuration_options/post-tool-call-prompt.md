@@ -9,7 +9,7 @@ sidebar_position: 1
 
 In AI-driven workflows, the interaction between tools and the language model often requires contextual follow-up. Sometimes a tool succeeds, other times it fails — and you may want the LLM to react differently depending on the result.
 
-To support this, CMND.ai introduces **Post-Tool Call Prompting**, a technique that allows you to dynamically guide the LLM’s response based on the outcome of a tool execution.
+To support this, Kolik introduces **Post-Tool Call Prompting**, a technique that allows you to dynamically guide the LLM’s response based on the outcome of a tool execution.
 
 ---
 

@@ -6,7 +6,7 @@ sidebar_position: 1
 
 # Evaluations
 
-Evaluations in CMND.ai allow you to **test and validate your AI assistant's responses** against expected behaviors. This feature is essential for ensuring your chatbots consistently meet quality standards before deploying to production.
+Evaluations in Kolik allow you to **test and validate your AI assistant's responses** against expected behaviors. This feature is essential for ensuring your chatbots consistently meet quality standards before deploying to production.
 
 ## What are Evaluations?
 

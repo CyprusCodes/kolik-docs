@@ -80,7 +80,7 @@ Now that the consent screen is configured, you can create the credentials.
       - **For the live cmnd app**: you should use it like :
 
             ```
-            http://app.cmnd.ai/redirect
+            http://app.kolik.co/redirect
             ```
 
 **e.** Click **Create**.

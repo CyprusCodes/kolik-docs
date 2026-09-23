@@ -5,9 +5,9 @@ description: What is it and what does it offer?
 sidebar_position: 1
 ---
 
-# CMND Embed Widget
+# Kolik Embed Widget
 
-The CMND Embed Widget lets you easily add a chatbot to any website by dropping in a single script tag. It’s the simplest way to bring CMND’s AI-powered conversations into your static site, CMS, blog, or landing page — no frameworks or builds required.
+The Kolik Embed Widget lets you easily add a chatbot to any website by dropping in a single script tag. It’s the simplest way to bring Kolik’s AI-powered conversations into your static site, CMS, blog, or landing page — no frameworks or builds required.
 
 ---
 
@@ -30,4 +30,4 @@ The CMND Embed Widget lets you easily add a chatbot to any website by dropping i
 
 ---
 
-The widget is lightweight, flexible, and gives you a direct way to embed CMND-powered assistants where you need them — no heavy frontend setup required.
+The widget is lightweight, flexible, and gives you a direct way to embed Kolik-powered assistants where you need them — no heavy frontend setup required.

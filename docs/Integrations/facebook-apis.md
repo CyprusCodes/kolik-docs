@@ -60,7 +60,7 @@ After creating the app, you’ll be redirected to your app’s dashboard.
   For the live cmnd app, use:
 
   ```
-  https://app.cmnd.ai/redirect
+  https://app.kolik.co/redirect
   ```
 
 - **Allowed Domains for the JavaScript SDK**: Add your domain to enable Facebook login on your site.

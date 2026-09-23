@@ -7,7 +7,7 @@ sidebar_position: 3
 
 # Basic Commands
 
-The CMND Embed Widget provides three essential commands to control its behavior on your website: `init`, `show`, and `hide`. This guide explains how to use each command effectively.
+The Kolik Embed Widget provides three essential commands to control its behavior on your website: `init`, `show`, and `hide`. This guide explains how to use each command effectively.
 
 ## Available Commands
 
@@ -18,7 +18,7 @@ This command initializes the widget on your page. You must call this command bef
 **Required Parameters:**
 
 - `chatbot_id`: Your unique chatbot identifier
-- `organization_id`: Your CMND organization identifier
+- `organization_id`: Your Kolik organization identifier
 
 Both parameters must be passed as properties in an object.
 
@@ -49,7 +49,7 @@ window.cmndChat("show");
 
 ### Omitting the `window` Qualifier
 
-All CMND commands can be called without the `window` qualifier for brevity:
+All Kolik commands can be called without the `window` qualifier for brevity:
 
 ```jsx title="JavaScript" showLineNumbers
 // These are equivalent:
@@ -96,10 +96,10 @@ Here's a complete HTML example showing how to initialize the widget and add butt
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>CMND Widget Example</title>
+    <title>Kolik Widget Example</title>
 
-    <!-- Load the CMND Widget script -->
-    <script src="https://embed.cmnd.ai/widget.js"></script>
+    <!-- Load the Kolik Widget script -->
+    <script src="https://embed.kolik.co/widget.js"></script>
 
     <!-- Initialize when DOM is ready -->
     <script>
@@ -129,7 +129,7 @@ Here's a complete HTML example showing how to initialize the widget and add butt
     </style>
   </head>
   <body>
-    <h1>CMND Widget Controls</h1>
+    <h1>Kolik Widget Controls</h1>
 
     <!-- Buttons to control widget visibility -->
     <button onclick="cmndChat('show')">Show Chatbot</button>

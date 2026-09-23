@@ -21,7 +21,7 @@ function HomepageHeader() {
             to="./docs/introduction"
             className="button button--secondary button--lg"
           >
-            Read CMND Documentations
+            Read Kolik Documentations
           </Link>
         </div>
       </div>

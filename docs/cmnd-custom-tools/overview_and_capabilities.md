@@ -7,7 +7,7 @@ sidebar_position: 1
 
 # Custom Tools
 
-Custom Tools let you extend the power of CMND.ai by connecting LLMs to your own logic, services, and infrastructure.
+Custom Tools let you extend the power of Kolik by connecting LLMs to your own logic, services, and infrastructure.
 
 They allow you to expose internal functions — whether it’s querying a database, triggering backend workflows, or calling private APIs — and make them accessible within natural conversations powered by LLMs.
 
@@ -17,13 +17,13 @@ This means your assistants can do more than talk — they can act.
 
 ## Ways to Create Custom Tools
 
-You can build and connect custom tools in CMND.ai in two ways:
+You can build and connect custom tools in Kolik in two ways:
 
-- [**CMND Extensions API:**](https://docs.cmnd.ai/docs/category/cmnd-extensions-api)
-  Develop your tool externally using your own infrastructure (e.g., FastAPI, Flask, Node.js), then connect it to CMND via a secure public endpoint.
+- [**Kolik Extensions API:**](https://docs.kolik.co/docs/category/cmnd-extensions-api)
+  Develop your tool externally using your own infrastructure (e.g., FastAPI, Flask, Node.js), then connect it to Kolik via a secure public endpoint.
 
-- [**CMND Extensions Studio:**](https://docs.cmnd.ai/docs/cmnd-custom-tools/extensions-studio)
-  Create and deploy your tool entirely within CMND’s web platform — no separate hosting needed. Ideal for quick setups, prototypes, or simpler tools.
+- [**Kolik Extensions Studio:**](https://docs.kolik.co/docs/cmnd-custom-tools/extensions-studio)
+  Create and deploy your tool entirely within Kolik’s web platform — no separate hosting needed. Ideal for quick setups, prototypes, or simpler tools.
 
 Both options give you full flexibility over your tool’s behavior, schema, and integration.
 
@@ -32,7 +32,7 @@ Both options give you full flexibility over your tool’s behavior, schema, and 
 ## What You Can Do with Custom Tools
 
 - **Connect LLMs to your backend logic**  
-  Wrap any Python or JavaScript function and expose it as a callable tool inside CMND.
+  Wrap any Python or JavaScript function and expose it as a callable tool inside Kolik.
 
 - **Build task-specific utilities**  
   From checking inventory to performing calculations or generating content, tools can be scoped to exactly what your assistant needs.
@@ -57,4 +57,4 @@ Both options give you full flexibility over your tool’s behavior, schema, and 
 
 ---
 
-Custom Tools are a powerful way to bring domain-specific intelligence and capability into your CMND-powered assistant — securely, flexibly, and in the language of your own codebase.
+Custom Tools are a powerful way to bring domain-specific intelligence and capability into your Kolik-powered assistant — securely, flexibly, and in the language of your own codebase.

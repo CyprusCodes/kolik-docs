@@ -64,6 +64,6 @@ LLM Proxy is open source, extensible, and ready for your ideas. If you want to a
 
 **Github:** **[https://www.github.com/CyprusCodes/llm-proxy](https://github.com/CyprusCodes/llm-proxy)**
 
-Explore the code, open an issue, submit a PR, or just [reach out](mailto:info@cmnd.ai) :)
+Explore the code, open an issue, submit a PR, or just [reach out](mailto:info@kolik.co) :)
 
 Let’s make LLM infrastructure better — together.

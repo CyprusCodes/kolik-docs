@@ -15,4 +15,4 @@ sidebar_position: 1
 
 - **Assistants With RAG**: Digital agents equipped with the capability to acquire external knowledge and use it to enhance it's capabilites.
 
-The RAG here is a technique that can be set to the assistant as a tool such as langchain rag tools, or it can be a custom algorithm that do retrival according to your specification, currently CMND.ai supports RAG only as a tool
+The RAG here is a technique that can be set to the assistant as a tool such as langchain rag tools, or it can be a custom algorithm that do retrival according to your specification, currently Kolik supports RAG only as a tool

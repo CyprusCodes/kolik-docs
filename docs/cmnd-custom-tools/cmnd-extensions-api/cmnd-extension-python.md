@@ -1,16 +1,16 @@
 ---
 id: custom-tool-python
 title: Build a Custom Tool – Python
-description: How to build a CMND Custom Tool in Python
+description: How to build a Kolik Custom Tool in Python
 sidebar_position: 2
 ---
 
 # Build a Custom Tool – Python
 
-Custom Tools allow you to connect your own backend logic to CMND.ai and make it callable inside assistant conversations.
+Custom Tools allow you to connect your own backend logic to Kolik and make it callable inside assistant conversations.
 
 :::note
-This guide walks through how to create and expose your own tool using Python — using either FastAPI or Flask — and make it available to CMND through a simple server endpoint.
+This guide walks through how to create and expose your own tool using Python — using either FastAPI or Flask — and make it available to Kolik through a simple server endpoint.
 :::
 
 ---
@@ -18,7 +18,7 @@ This guide walks through how to create and expose your own tool using Python —
 ## Prerequisites
 
 - Python 3.8+
-- A CMND.ai account and chatbot
+- A Kolik account and chatbot
 - Ngrok or any other alternative (for public tunneling)
 
 ---
@@ -95,7 +95,7 @@ python3 main.py
 
 ## Make It Public with Ngrok
 
-To allow CMND to call your local server, expose it using Ngrok:
+To allow Kolik to call your local server, expose it using Ngrok:
 
 1. [Download and set up Ngrok](https://ngrok.com/docs/getting-started)
 2. Start your app as normal:
@@ -112,7 +112,7 @@ ngrok http 8000
 
 > Make sure the port used in `main.py` matches the one you're exposing via Ngrok.
 
-Once live, you'll get a public HTTPS URL. This is the endpoint you’ll register with CMND when adding the tool to a chatbot.
+Once live, you'll get a public HTTPS URL. This is the endpoint you’ll register with Kolik when adding the tool to a chatbot.
 
 ---
 
@@ -124,5 +124,5 @@ If your tool uses third-party services (like weather APIs), store secrets in a `
 
 ## What’s Next?
 
-- Add your public tool URL in the CMND dashboard
+- Add your public tool URL in the Kolik dashboard
 - Use the tool in conversations or assistants

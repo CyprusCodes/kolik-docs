@@ -1,7 +1,7 @@
 ---
 id: chat-components
 title: Chat Components
-description: Customize UI components in the CMND React SDK to match your application's theme and design system.
+description: Customize UI components in the Kolik React SDK to match your application's theme and design system.
 sidebar_position: 1
 ---
 
@@ -9,10 +9,10 @@ sidebar_position: 1
 
 ## Introduction
 
-The CMND React SDK provides customizable UI components that allow you to tailor your conversation view's appearance to match your application's theme. This feature is particularly valuable when integrating with existing UI libraries or maintaining consistent design systems.
+The Kolik React SDK provides customizable UI components that allow you to tailor your conversation view's appearance to match your application's theme. This feature is particularly valuable when integrating with existing UI libraries or maintaining consistent design systems.
 
 :::note
-This guide contains information on how to customize input fields, send buttons, and other UI elements of the CMND chatbot in order to create a seamless integration with your application.
+This guide contains information on how to customize input fields, send buttons, and other UI elements of the Kolik chatbot in order to create a seamless integration with your application.
 :::
 
 ## Available Components

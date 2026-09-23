@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Rerun 
 
-In CMND.ai, where you can create custom functions to interact with the language model, the rerun attribute plays a crucial role in determining the availability of these functions after their initial execution. The rerun attribute allows developers to control whether a function remains available for repeated use or is removed from the list of available functions after it has been invoked once, or even allowing the tool to rerun but only with different parameters.
+In Kolik, where you can create custom functions to interact with the language model, the rerun attribute plays a crucial role in determining the availability of these functions after their initial execution. The rerun attribute allows developers to control whether a function remains available for repeated use or is removed from the list of available functions after it has been invoked once, or even allowing the tool to rerun but only with different parameters.
 
 The `rerun` attribute is a flag that can be set to:
 

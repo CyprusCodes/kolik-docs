@@ -9,7 +9,7 @@ sidebar_position: 4
 
 ## Introduction
 
-The CMND React SDK provides support for UI Tools, enabling developers to create interactive components that can be integrated into the chatbot interface. These tools can either capture user input or simply display information, and can be rendered in different locations within the application.
+The Kolik React SDK provides support for UI Tools, enabling developers to create interactive components that can be integrated into the chatbot interface. These tools can either capture user input or simply display information, and can be rendered in different locations within the application.
 
 :::note What you'll learn
 This guide contains information on how to define and implement UI Tools for your chatbot, the different types of UI Tools available, how to create components that capture user input, how to render components in various locations within your application, and implementation patterns through practical examples.
@@ -17,7 +17,7 @@ This guide contains information on how to define and implement UI Tools for your
 
 ## What is the UI Tool
 
-The UI Tool is a specialized component that implements the `CMNDChatbotUITool` interface. Each tool consists of configuration properties and a `runCmd` function that determines its behavior and rendering logic.
+The UI Tool is a specialized component that implements the `KolikChatbotUITool` interface. Each tool consists of configuration properties and a `runCmd` function that determines its behavior and rendering logic.
 
 ## Key Properties
 
@@ -56,7 +56,7 @@ The following examples demonstrate different UI Tools implementation patterns. C
 This tool demonstrates a simple UI tool that changes the page background color without capturing user input:
 
 ```typescript title="tsx" showLineNumbers
-const BackgroundColorTool: CMNDChatbotUITool = {
+const BackgroundColorTool: KolikChatbotUITool = {
   name: "change_background_color",
   description: "Changes the background color of the page",
   category: "UI",
@@ -110,7 +110,7 @@ const BackgroundColorTool: CMNDChatbotUITool = {
 This tool demonstrates a UI tool that captures user input through a form component:
 
 ```typescript title="tsx" showLineNumbers
-export const UsernameTool: CMNDChatbotUITool = {
+export const UsernameTool: KolikChatbotUITool = {
   name: "capture_username",
   description: "Captures username through an input field",
   category: "UI",
@@ -197,7 +197,7 @@ export const UsernameTool: CMNDChatbotUITool = {
 This tool demonstrates a UI tool that plots a graph based on the function argument data:
 
 ```typescript title="tsx" showLineNumbers
-export const PlotGraphTool: CMNDChatbotUITool = {
+export const PlotGraphTool: KolikChatbotUITool = {
   name: "plot_graph",
   description: "Plots a graph using Recharts",
   category: "visualization",
@@ -387,7 +387,7 @@ export const PlotGraphTool: CMNDChatbotUITool = {
 This tool demonstrates a UI tool that dynamically generates prompts based on user input and predefined templates:
 
 ```typescript title="tsx" showLineNumbers
-export const DynamicPromptTool: CMNDChatbotUITool = {
+export const DynamicPromptTool: KolikChatbotUITool = {
   name: "dynamic_prompt",
   description: "Prompts the user for any input with a custom message",
   category: "UI",
@@ -445,7 +445,7 @@ export const DynamicPromptTool: CMNDChatbotUITool = {
 This tool demonstrates a UI tool that triggers a toast within the chat interface:
 
 ```typescript title="tsx" showLineNumbers
-export const ChatNotificationTool: CMNDChatbotUITool = {
+export const ChatNotificationTool: KolikChatbotUITool = {
   name: "chat_notification",
   description: "Displays a notification toast in the chat",
   category: "UI",
@@ -520,7 +520,7 @@ export const ChatNotificationTool: CMNDChatbotUITool = {
 Remember to pass all your UI Tools to the ChatProvider component for them to be available in your chatbot.
 :::
 
-To utilize the UI Tools with the CMND React SDK, pass the defined tools as a prop to the `ChatProvider` component:
+To utilize the UI Tools with the Kolik React SDK, pass the defined tools as a prop to the `ChatProvider` component:
 
 ```typescript title="tsx" showLineNumbers
 <ChatProvider
