@@ -4,7 +4,7 @@ import type * as Preset from "@docusaurus/preset-classic";
 
 const config: Config = {
   title: "Kolik",
-  tagline: "Kolik Documentation",
+  tagline: "Manage all your HR processes from one central dashboard.",
   favicon: "img/kolik-favicon.svg",
 
   // Set the production url of your site here

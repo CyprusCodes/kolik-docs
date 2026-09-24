@@ -10,32 +10,32 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: "Fast execution",
+    title: "Leave Management",
     Svg: require("@site/static/img/undraw_responsive.svg").default,
     description: (
       <>
-        Kolik integrates with your internal databases, workflows, any APIs and
-        software. We are the BusinessGPT
+        Manage every leave request and type from a single command center with
+        full transparency and control.
       </>
     ),
   },
   {
-    title: "Data Harmony",
+    title: "Employee Management",
     Svg: require("@site/static/img/undraw_online_connection.svg").default,
     description: (
       <>
-        We are putting you in command of your data. We bring all of your data
-        together, from different <code>sources</code> and <code>formats.</code>
+        Add, invite, and organize your team in a few clicks. Keep all employee
+        information in one secure place.
       </>
     ),
   },
   {
-    title: "Security",
+    title: "AI Assistant",
     Svg: require("@site/static/img/undraw_code_review.svg").default,
     description: (
       <>
-        Kolik uses Role Based Access controls to make sure only authorised
-        staff can see relevant data and utilise platform connections.
+        Handle leave requests, meeting room bookings, and support tickets
+        through a single intelligent chat.
       </>
     ),
   },

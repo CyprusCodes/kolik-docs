@@ -6,46 +6,32 @@ sidebar_position: 1
 
 # Quickstart with Kolik
 
-This guide walks you through the simplest way to use Kolik — creating a chatbot and embedding it into a React application.
+This guide walks you through the simplest way to use Kolik — logging in, configuring your workspace, and managing your team.
 
-## 1. Create a Chatbot on Kolik
+## 1. Create Your Kolik Workspace
 
-1. Log in to your Kolik account.
-2. Go to **Chatbots** and click **Create Chatbot**.
-3. Choose the **React Chatbot** option.
-4. Configure your chatbot (title, model type, system prompt) — the defaults work fine to start.
-5. Click **Create Chatbot**.
+1. Log in to your [Kolik account](https://www.kolik.co).
+2. Set up your company profile and invite your team members.
+3. Define your leave types and approval workflow in the **Settings** section.
 
-## 2. Install the React SDK
+## 2. Add Your Employees
 
-```bash
-npm install @cmnd-ai/chatbot-react
-```
+1. Go to **Employee Management**.
+2. Click **Add Employee** and fill in their details.
+3. Click **Invite** — they'll receive a startup invitation by email.
 
-## 3. Embed the Chatbot in Your App
+## 3. Manage Your First Leave Request
 
-```jsx
-import { ChatProvider, CmndChatBot } from "@cmnd-ai/chatbot-react";
-
-const App = () => (
-  <ChatProvider
-    baseUrl="https://api.kolik.co"
-    chatbotId={YOUR_CHATBOT_ID}
-    organizationId={YOUR_ORG_ID}
-  >
-    <CmndChatBot />
-  </ChatProvider>
-);
-
-export default App;
-```
+1. Ask a team member to submit a leave request.
+2. Approve or reject it from the **Leave Management** tab.
+3. Track all requests and balances in one central view.
 
 :::caution
-Replace `YOUR_CHATBOT_ID` and `YOUR_ORG_ID` with the values from your chatbot's **Embed** tab.
+Invited team members need to accept their invitation and log in before they can submit requests.
 :::
 
-## Full Example
+## Next Steps
 
-Check out the open-source example app: [Kolik React Chatbot Example](https://github.com/CyprusCodes/cmnd-react-chatbot-example).
+Kolik also lets you automate payment instructions and run support tickets through a single AI assistant. Explore the platform to enable these workflows.
 
-That's it — you now have an AI chatbot running in your React app.
+That's it — you're now running your HR operations in Kolik.

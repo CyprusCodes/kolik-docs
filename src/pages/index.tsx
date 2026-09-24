@@ -33,8 +33,8 @@ export default function Home(): JSX.Element {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />"
+      title={`${siteConfig.title} Docs`}
+      description="Kolik — manage leave, employees, payments, and support tickets all in one place."
     >
       <HomepageHeader />
       <main>
