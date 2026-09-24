@@ -3,10 +3,9 @@ import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
 
 const config: Config = {
-  title: "CMND",
-  tagline:
-    "Quick Questions Are Never Quick Questions.\n With CMND.ai, They Are.",
-  favicon: "img/cmnd-favicon-v3.png",
+  title: "Kolik",
+  tagline: "Kolik Documentation",
+  favicon: "img/kolik-favicon.svg",
 
   // Set the production url of your site here
   url: "https://your-docusaurus-site.example.com",
@@ -17,7 +16,7 @@ const config: Config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "CyprusCodes", // Usually your GitHub org/user name.
-  projectName: "cmnd-docs", // Usually your repo name.
+  projectName: "kolik-docs", // Usually your repo name.
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -39,14 +38,14 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           // editUrl:
-          //   "https://github.com/CyprusCodes/cmnd-docs/tree/main",
+          //   "https://github.com/CyprusCodes/kolik-docs/tree/main",
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           // editUrl:
-          //   "https://github.com/CyprusCodes/cmnd-docs/tree/main",
+          //   "https://github.com/CyprusCodes/kolik-docs/tree/main",
         },
         theme: {
           customCss: "./src/css/custom.css",
@@ -59,10 +58,9 @@ const config: Config = {
     // Replace with your project's social card
     image: "img/docusaurus-social-card.jpg",
     navbar: {
-      title: "CMND",
       logo: {
-        alt: "My Site Logo",
-        src: "img/cmnd-favicon-v2.png",
+        alt: "Kolik",
+        src: "img/kolik-logo.svg",
       },
       items: [
         {
@@ -73,7 +71,7 @@ const config: Config = {
         },
         { to: "/blog", label: "Blog", position: "left" },
         {
-          href: "https://github.com/CyprusCodes/cmnd-docs",
+          href: "https://github.com/CyprusCodes/kolik-docs",
           label: "GitHub",
           position: "right",
         },
@@ -81,8 +79,7 @@ const config: Config = {
     },
     footer: {
       style: "dark",
-
-      copyright: `Copyright © ${new Date().getFullYear()} CMND Docs by FutureCast.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Kolik by FutureCast.`,
     },
     prism: {
       theme: prismThemes.github,

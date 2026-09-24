@@ -14,7 +14,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require("@site/static/img/undraw_responsive.svg").default,
     description: (
       <>
-        CMND.ai integrates with your internal databases, workflows, any APIs and
+        Kolik integrates with your internal databases, workflows, any APIs and
         software. We are the BusinessGPT
       </>
     ),
@@ -34,7 +34,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require("@site/static/img/undraw_code_review.svg").default,
     description: (
       <>
-        CMND.ai uses Role Based Access controls to make sure only authorised
+        Kolik uses Role Based Access controls to make sure only authorised
         staff can see relevant data and utilise platform connections.
       </>
     ),
