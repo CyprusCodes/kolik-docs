@@ -18,7 +18,7 @@ function HomepageHeader() {
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
           <Link
-            to="./docs/introduction"
+            to="./docs/quickstart"
             className="button button--secondary button--lg"
           >
             Read Kolik Documentations
