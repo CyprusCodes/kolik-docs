@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 285" role="img" aria-labelledby="title description">
+  <title id="title">Banka hesabı form bölümleri</title>
+  <desc id="description">Banka hesabı oluşturma penceresinde hesap bilgileri, hesap sahibi, hesap ayarları ve iletişim kişileri bölümleri bulunur.</desc>
+  <rect width="980" height="285" rx="24" fill="#eff3f8"/>
+  <g font-family="Arial, sans-serif">
+    <text x="40" y="46" font-size="25" font-weight="700" fill="#173a62">Banka Hesabı Ekle penceresi</text>
+    <rect x="40" y="78" width="432" height="76" rx="14" fill="#fff" stroke="#cbd9e7" stroke-width="2"/>
+    <rect x="508" y="78" width="432" height="76" rx="14" fill="#fff" stroke="#cbd9e7" stroke-width="2"/>
+    <rect x="40" y="171" width="432" height="76" rx="14" fill="#e6f3ec" stroke="#9acfb2" stroke-width="2"/>
+    <rect x="508" y="171" width="432" height="76" rx="14" fill="#e6f3ec" stroke="#9acfb2" stroke-width="2"/>
+    <text x="61" y="109" font-size="18" font-weight="700" fill="#173a62">1. Banka hesabı bilgileri</text>
+    <text x="61" y="135" font-size="14" fill="#4c6176">Banka · şube · hesap no · SWIFT · IBAN</text>
+    <text x="529" y="109" font-size="18" font-weight="700" fill="#173a62">2. Hesap sahibi</text>
+    <text x="529" y="135" font-size="14" fill="#4c6176">Ad · adres · şehir · ülke</text>
+    <text x="61" y="202" font-size="18" font-weight="700" fill="#176745">3. Hesap ayarları</text>
+    <text x="61" y="228" font-size="14" fill="#395e4c">Para birimi · aktif / pasif</text>
+    <text x="529" y="202" font-size="18" font-weight="700" fill="#176745">4. İletişim kişileri</text>
+    <text x="529" y="228" font-size="14" fill="#395e4c">Telefon · e-posta · birincil kişi</text>
+  </g>
+</svg>

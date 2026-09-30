@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 340" role="img" aria-labelledby="title description">
+  <title id="title">Departman izin politikası atama yolları</title>
+  <desc id="description">Departman varsayılanını kaydetmek gelecekteki işe alımları etkiler; mevcut çalışanlar ayrı yeniden atama işlemiyle taşınır.</desc>
+  <rect width="980" height="340" rx="24" fill="#eff3f8"/>
+  <g font-family="Arial, sans-serif">
+    <text x="42" y="48" font-size="25" font-weight="700" fill="#173a62">Departman için politika seçtikten sonra</text>
+    <rect x="42" y="82" width="274" height="106" rx="16" fill="#fff" stroke="#cbd9e7" stroke-width="2"/>
+    <text x="63" y="120" font-size="19" font-weight="700" fill="#173a62">İzin varsayılanları</text>
+    <text x="63" y="150" font-size="15" fill="#4c6176">Aktif politika + başlangıç tarihi</text>
+    <path d="M316 135h58" stroke="#ef8050" stroke-width="4" stroke-linecap="round"/>
+    <path d="M363 124l13 11-13 11" fill="none" stroke="#ef8050" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="385" y="82" width="552" height="106" rx="16" fill="#e6f3ec" stroke="#9acfb2" stroke-width="2"/>
+    <text x="408" y="120" font-size="19" font-weight="700" fill="#176745">Yeni işe alımlar</text>
+    <text x="408" y="150" font-size="15" fill="#395e4c">Seçilen varsayılan politika, belirlenen tarihten itibaren uygulanır.</text>
+    <rect x="42" y="215" width="895" height="91" rx="16" fill="#fff1e9" stroke="#edb894" stroke-width="2"/>
+    <text x="63" y="250" font-size="19" font-weight="700" fill="#8c4a2d">Mevcut çalışanlar ayrı işlem gerektirir</text>
+    <text x="63" y="279" font-size="15" fill="#8c4a2d">“Mevcut çalışanları yeniden ata” → aday sayısını ve geçerlilik tarihini kontrol et → onayla.</text>
+  </g>
+</svg>
