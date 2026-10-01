@@ -12,7 +12,7 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: "Leave Management",
-    Svg: require("@site/static/img/undraw_responsive.svg").default,
+    Svg: require("@site/static/img/feature-leave.svg").default,
     description: (
       <>
         Manage every leave request and type from a single command center with
@@ -22,7 +22,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: "Employee Management",
-    Svg: require("@site/static/img/undraw_online_connection.svg").default,
+    Svg: require("@site/static/img/feature-employees.svg").default,
     description: (
       <>
         Add, invite, and organize your team in a few clicks. Keep all employee
@@ -32,7 +32,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: "AI Assistant",
-    Svg: require("@site/static/img/undraw_code_review.svg").default,
+    Svg: require("@site/static/img/feature-ai.svg").default,
     description: (
       <>
         Handle leave requests, meeting room bookings, and support tickets

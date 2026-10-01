@@ -20,7 +20,7 @@
   --docusaurus-highlighted-code-line-bg: rgba(157, 119, 235, 0.15);
 }
 
-[data-theme='dark'] {
+html[data-theme='dark'] {
   --ifm-color-primary: #bba3f5;
   --ifm-color-primary-dark: #9d77eb;
   --ifm-color-primary-darker: #8565c8;
@@ -37,8 +37,7 @@
   --docusaurus-highlighted-code-line-bg: rgba(187, 163, 245, 0.15);
 }
 
-[data-theme='dark'] .navbar,
-[data-theme='dark'] .hero {
+[data-theme='dark'] .navbar {
   background-color: #181c39;
 }
 
@@ -46,12 +45,12 @@
   background-color: #10132b;
 }
 
-.navbar__logo img {
-  height: 40px;
+.navbar__logo {
+  display: flex;
+  align-items: center;
+  height: 100%;
 }
 
-.hero__subtitle {
-  width: 50%;
-  margin: auto;
-  padding-bottom: 20px;
+.navbar__logo img {
+  height: 28px;
 }

@@ -6,6 +6,12 @@ const config: Config = {
   title: "Kolik",
   tagline: "Tüm İK süreçlerinizi tek bir merkezden yönetin.",
   favicon: "img/kolik-favicon.svg",
+  headTags: [
+    {
+      tagName: "link",
+      attributes: { rel: "apple-touch-icon", href: "/img/apple-touch-icon.png" },
+    },
+  ],
 
   // Set the production url of your site here
   url: "https://docs.kolik.co",
@@ -75,12 +81,14 @@ const config: Config = {
   ],
 
   themeConfig: {
-    // Replace with your project's social card
-    image: "img/docusaurus-social-card.jpg",
+    image: "img/kolik-social-card.jpg",
     navbar: {
       logo: {
         alt: "Kolik",
         src: "img/kolik-logo.svg",
+        srcDark: "img/kolik-logo-dark.svg",
+        width: 67,
+        height: 28,
       },
       items: [
         {

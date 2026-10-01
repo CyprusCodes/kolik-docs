@@ -4,15 +4,63 @@
  */
 
 .heroBanner {
-  padding: 4rem 0;
+  padding: 5rem 0 4.5rem;
   text-align: center;
   position: relative;
   overflow: hidden;
+  color: #181c39;
+  background:
+    radial-gradient(60% 80% at 85% 0%, rgba(158, 119, 237, 0.22), transparent 70%),
+    radial-gradient(50% 70% at 10% 100%, rgba(158, 119, 237, 0.12), transparent 70%),
+    linear-gradient(180deg, #f6f2ff 0%, #ffffff 100%);
+  border-bottom: 1px solid rgba(24, 28, 57, 0.06);
+}
+
+[data-theme='dark'] .heroBanner {
+  color: #f6f6f9;
+  background:
+    radial-gradient(60% 80% at 85% 0%, rgba(158, 119, 237, 0.35), transparent 70%),
+    radial-gradient(50% 70% at 10% 100%, rgba(158, 119, 237, 0.15), transparent 70%),
+    linear-gradient(180deg, #1c2536 0%, #181c39 100%);
+  border-bottom-color: rgba(255, 255, 255, 0.06);
+}
+
+.heroTitle {
+  margin: 0 0 1.25rem;
+  line-height: 0;
+}
+
+.heroLogo {
+  height: 112px;
+  width: 112px;
+  border-radius: 50%;
+  box-shadow: 0 16px 40px rgba(158, 119, 237, 0.35);
+}
+
+.heroSubtitle {
+  max-width: 640px;
+  margin: 0 auto 2rem;
+  font-size: 1.4rem;
+  line-height: 1.5;
+  color: #4b5563;
+}
+
+[data-theme='dark'] .heroSubtitle {
+  color: #c9cedb;
 }
 
 @media screen and (max-width: 996px) {
   .heroBanner {
-    padding: 2rem;
+    padding: 3rem 1rem;
+  }
+
+  .heroLogo {
+    height: 80px;
+    width: 80px;
+  }
+
+  .heroSubtitle {
+    font-size: 1.15rem;
   }
 }
 
@@ -20,4 +68,13 @@
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.buttons :global(.button) {
+  border-radius: 10px;
+  box-shadow: 0 8px 24px rgba(158, 119, 237, 0.35);
+}
+
+[data-theme='dark'] .buttons :global(.button--primary) {
+  color: #181c39;
 }
