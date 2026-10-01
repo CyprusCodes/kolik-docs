@@ -5,7 +5,7 @@ sidebar_position: 4
 
 # Politikadaki izin türünün kurallarını düzenleme
 
-[İzin Politikaları](https://kolik.co/dashboard/admin-panel?tab=leave&sub=policies) sayfasında politikayı açın. **İzin Türleri** sekmesinde ilgili türün satırına veya **Kuralları düzenle** düğmesine tıklayın. Örneğin verdiğiniz [`/leave-policies/1/types/8`](https://kolik.co/dashboard/admin-panel/leave-policies/1/types/8) adresi, 1 numaralı politikanın 8 numaralı **bağlı tür kuralı** sayfasıdır; bu `8`, katalogdaki izin türünün kimliği olmak zorunda değildir.
+[İzin Politikaları](https://app.kolik.co/dashboard/admin-panel?tab=leave&sub=policies) sayfasında politikayı açın. **İzin Türleri** sekmesinde ilgili türün satırına veya **Kuralları düzenle** düğmesine tıklayın. Örnek `/leave-policies/1/types/8` adresi, 1 numaralı politikanın 8 numaralı **bağlı tür kuralı** sayfasıdır; bu `8`, katalogdaki izin türünün kimliği olmak zorunda değildir. Bu numaralar kuruluşa göre değiştiği için kendi politikanızın sayfasından ilerleyin.
 
 Her türün kuralları, bağlı olduğu politika içinde ayrı tutulur. Katalogda tür oluştururken işaretlenen **Saatlik Talebe İzin Ver** ve **Not Gerekli** seçenekleri ise bu sayfadaki hak ediş ayarları değildir.
 
@@ -27,7 +27,7 @@ Her türün kuralları, bağlı olduğu politika içinde ayrı tutulur. Katalogd
 
 ## Genel
 
-- **Tür adı** katalogdan gelir ve burada değiştirilemez. [İzin Türleri](./izin-turu-olusturma.md) ekranında da mevcut tür için ad düzenleme işlemi bulunmaz; yeni ad gerekiyorsa mevcut politika bağlantılarını ve geçmiş talepleri dikkate alarak yeni tür oluşturulmasını değerlendirin.
+- **Tür adı** katalogdan gelir ve burada değiştirilemez. [İzin Türleri](./izin-turu-olusturma) ekranında da mevcut tür için ad düzenleme işlemi bulunmaz; yeni ad gerekiyorsa mevcut politika bağlantılarını ve geçmiş talepleri dikkate alarak yeni tür oluşturulmasını değerlendirin.
 - **Görüntü rengi** için hazır renklerden birini veya **Renk yok** seçeneğini kullanın. **Açıklama** ve **Dahili kod** isteğe bağlı alanlardır; dahili kod türü başka sistemlerle eşleştirmek içindir.
 - **Uygulanacak cinsiyet** alanında **Herkes**, **Yalnızca erkek** veya **Yalnızca kadın** seçilir. Arayüz açıklamasına göre kayıtlı cinsiyeti olmayan çalışanlar türü yine görür.
 
@@ -44,7 +44,7 @@ Her türün kuralları, bağlı olduğu politika içinde ayrı tutulur. Katalogd
 | *Limited per event* | Her olay gerçekleştiğinde tanımlanan hak. | **Olay başına gün** |
 | *Unlimited* | Bakiye sınırı ve bakiye takibi yoktur. | Gün girişi yapılmaz. |
 
-Örneğin **Limited per year + Yıllık temel gün: 12**, yıllık temel hakkı 12 gün olarak tanımlar. Türün “saatlik” olması tek başına 12 gün veya başka bir bakiye yaratmaz. **Günlük saat** alanı salt okunurdur; bu politikanın [Hesaplama Ayarları](./politika-hesaplama-ayarlari.md) sekmesinden gelir ve ekrandaki toplam saat önizlemesinde kullanılır.
+Örneğin **Limited per year + Yıllık temel gün: 12**, yıllık temel hakkı 12 gün olarak tanımlar. Türün “saatlik” olması tek başına 12 gün veya başka bir bakiye yaratmaz. **Günlük saat** alanı salt okunurdur; bu politikanın [Hesaplama Ayarları](./politika-hesaplama-ayarlari) sekmesinden gelir ve ekrandaki toplam saat önizlemesinde kullanılır.
 
 ### Diğer hak ediş sınırları
 

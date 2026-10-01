@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="280" viewBox="0 0 1100 280" role="img" aria-labelledby="title desc">
+  <title id="title">Open Kolik apps</title>
+  <desc id="desc">Enable a module in the app catalog, open it with the app switcher, then use its screens.</desc>
+  <rect width="1100" height="280" rx="22" fill="#f2f7fb"/>
+  <rect x="30" y="53" width="297" height="174" rx="18" fill="#fff" stroke="#c8dce9" stroke-width="2"/>
+  <circle cx="72" cy="100" r="22" fill="#e1f1ff"/><text x="72" y="107" text-anchor="middle" font-family="Arial,sans-serif" font-size="19" fill="#1767aa">1</text>
+  <text x="108" y="106" font-family="Arial,sans-serif" font-size="22" font-weight="bold" fill="#153851">Apps</text>
+  <text x="53" y="153" font-family="Arial,sans-serif" font-size="16" fill="#48667b">Find the catalog card</text>
+  <text x="53" y="182" font-family="Arial,sans-serif" font-size="16" fill="#48667b">and enable the app.</text>
+  <path d="M338 140h51m-11-11 11 11-11 11" fill="none" stroke="#2499ad" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="402" y="53" width="297" height="174" rx="18" fill="#fff" stroke="#c8dce9" stroke-width="2"/>
+  <circle cx="444" cy="100" r="22" fill="#e6f7ed"/><text x="444" y="107" text-anchor="middle" font-family="Arial,sans-serif" font-size="19" fill="#198151">2</text>
+  <text x="480" y="106" font-family="Arial,sans-serif" font-size="22" font-weight="bold" fill="#153851">Open the module</text>
+  <text x="425" y="153" font-family="Arial,sans-serif" font-size="16" fill="#48667b">Use the app switcher</text>
+  <text x="425" y="182" font-family="Arial,sans-serif" font-size="16" fill="#48667b">or the sidebar.</text>
+  <path d="M710 140h51m-11-11 11 11-11 11" fill="none" stroke="#2499ad" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="774" y="53" width="297" height="174" rx="18" fill="#fff" stroke="#c8dce9" stroke-width="2"/>
+  <circle cx="816" cy="100" r="22" fill="#fff0da"/><text x="816" y="107" text-anchor="middle" font-family="Arial,sans-serif" font-size="19" fill="#b47218">3</text>
+  <text x="852" y="106" font-family="Arial,sans-serif" font-size="22" font-weight="bold" fill="#153851">Get to work</text>
+  <text x="797" y="153" font-family="Arial,sans-serif" font-size="16" fill="#48667b">Open the module's tabs</text>
+  <text x="797" y="182" font-family="Arial,sans-serif" font-size="16" fill="#48667b">and submenus.</text>
+</svg>

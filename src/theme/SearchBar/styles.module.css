@@ -53,7 +53,13 @@
   flex: none;
 }
 
-.trigger span { flex: 1; }
+.trigger span {
+  flex: 1;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
 
 .trigger kbd,
 .footer kbd {

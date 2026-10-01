@@ -5,7 +5,7 @@ sidebar_position: 6
 
 # Toplantı odaları
 
-Sol menüden **[Toplantı Odaları](https://kolik.co/dashboard/meetings-room)** sayfasını açın. İçeride **Odalar** ve **Rezervasyonlar** sekmeleri vardır.
+Sol menüden **[Toplantı Odaları](https://app.kolik.co/dashboard/meetings-room)** sayfasını açın. İçeride **Odalar** ve **Rezervasyonlar** sekmeleri vardır.
 
 ## Oda bulma ve oluşturma
 

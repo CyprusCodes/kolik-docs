@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 285" role="img" aria-labelledby="title description">
+  <title id="title">Bank account form sections</title>
+  <desc id="description">Sections for account details, account holder, settings, and contact people.</desc>
+  <rect width="980" height="285" rx="24" fill="#eff3f8"/>
+  <g font-family="Arial, sans-serif">
+    <text x="40" y="46" font-size="25" font-weight="700" fill="#173a62">Add Bank Account dialog</text>
+    <rect x="40" y="78" width="432" height="76" rx="14" fill="#fff" stroke="#cbd9e7" stroke-width="2"/>
+    <rect x="508" y="78" width="432" height="76" rx="14" fill="#fff" stroke="#cbd9e7" stroke-width="2"/>
+    <rect x="40" y="171" width="432" height="76" rx="14" fill="#e6f3ec" stroke="#9acfb2" stroke-width="2"/>
+    <rect x="508" y="171" width="432" height="76" rx="14" fill="#e6f3ec" stroke="#9acfb2" stroke-width="2"/>
+    <text x="61" y="109" font-size="18" font-weight="700" fill="#173a62">1. Account details</text>
+    <text x="61" y="135" font-size="14" fill="#4c6176">Bank · branch · account · SWIFT · IBAN</text>
+    <text x="529" y="109" font-size="18" font-weight="700" fill="#173a62">2. Account holder</text>
+    <text x="529" y="135" font-size="14" fill="#4c6176">Name · address · city · country</text>
+    <text x="61" y="202" font-size="18" font-weight="700" fill="#176745">3. Account settings</text>
+    <text x="61" y="228" font-size="14" fill="#395e4c">Currency · active / inactive</text>
+    <text x="529" y="202" font-size="18" font-weight="700" fill="#176745">4. Contact people</text>
+    <text x="529" y="228" font-size="14" fill="#395e4c">Phone · email · primary contact</text>
+  </g>
+</svg>

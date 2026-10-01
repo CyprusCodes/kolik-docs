@@ -5,7 +5,7 @@ sidebar_position: 10
 
 # Performansım ve değerlendirmelerim
 
-Performans uygulaması kuruluşta etkinse sol menüden **[Performansım](https://kolik.co/dashboard/performance/my-performance)** sayfasına gidin. Çalışan rolünde bu bağlantı **Değerlendirmelerim** olarak görünebilir. Bekleyen değerlendirmeniz varsa menüde sayı rozeti çıkar; tek bir görev varsa bağlantı doğrudan o değerlendirmeyi açabilir.
+Performans uygulaması kuruluşta etkinse sol menüden **[Performansım](https://app.kolik.co/dashboard/performance/my-performance)** sayfasına gidin. Çalışan rolünde bu bağlantı **Değerlendirmelerim** olarak görünebilir. Bekleyen değerlendirmeniz varsa menüde sayı rozeti çıkar; tek bir görev varsa bağlantı doğrudan o değerlendirmeyi açabilir.
 
 ## Bekleyen değerlendirme
 
@@ -15,4 +15,4 @@ Performans uygulaması kuruluşta etkinse sol menüden **[Performansım](https:/
 
 Yetkiye göre **Performansım** sekmesinde dönem seçip sonuçlarınızı, KPI/OKR hedeflerinizi ve kendi ilerleme kayıtlarınızı görüntüleyin. Mevcut sonuç ekranında **PDF dışa aktar** seçeneği vardır. Temel çalışan rolünde ekran doğrudan değerlendirme listesine açılabilir; dolayısıyla sonuç sekmesini herkes görmez.
 
-Yönetici tarafında dönem, KPI ve OKR oluşturma işlemleri için [Performans uygulaması rehberine](../uygulamalar/performans.md) bakın.
+Yönetici tarafında dönem, KPI ve OKR oluşturma işlemleri için [Performans uygulaması rehberine](../uygulamalar/performans) bakın.

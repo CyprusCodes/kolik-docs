@@ -5,7 +5,7 @@ sidebar_position: 6
 
 # Performans
 
-Etkin uygulamalardan **Performans**'ı seçin veya **[performans genel görünümünü](https://kolik.co/dashboard/performance)** açın. Yönetici modül menüsünde **Genel Bakış**, **[Dönemler](https://kolik.co/dashboard/performance/cycles)**, **[KPI](https://kolik.co/dashboard/performance/kpis)**, **[OKR](https://kolik.co/dashboard/performance/okrs)** ve **[Anketler](https://kolik.co/dashboard/performance/questionnaires)** bulunur. Çalışanların kişisel görünümü **[Performansım](https://kolik.co/dashboard/performance/my-performance)** sayfasıdır; rol ve yetkiye göre yönetici ekranından buraya yönlendirme yapılabilir.
+Etkin uygulamalardan **Performans**'ı seçin veya **[performans genel görünümünü](https://app.kolik.co/dashboard/performance)** açın. Yönetici modül menüsünde **Genel Bakış**, **[Dönemler](https://app.kolik.co/dashboard/performance/cycles)**, **[KPI](https://app.kolik.co/dashboard/performance/kpis)**, **[OKR](https://app.kolik.co/dashboard/performance/okrs)** ve **[Anketler](https://app.kolik.co/dashboard/performance/questionnaires)** bulunur. Çalışanların kişisel görünümü **[Performansım](https://app.kolik.co/dashboard/performance/my-performance)** sayfasıdır; rol ve yetkiye göre yönetici ekranından buraya yönlendirme yapılabilir.
 
 ## Değerlendirme dönemi
 

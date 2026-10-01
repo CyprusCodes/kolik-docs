@@ -5,7 +5,7 @@ sidebar_position: 3
 
 # Çalışanlar
 
-Sol menüden **[Çalışanlar](https://kolik.co/dashboard/employees)** sayfasını açın. **Tüm Çalışanlar** sekmesinde arama yapın; tablo, kart ve organizasyon şeması görünümü arasında geçin. Çalışan kaydına tıklayarak profilini açın.
+Sol menüden **[Çalışanlar](https://app.kolik.co/dashboard/employees)** sayfasını açın. **Tüm Çalışanlar** sekmesinde arama yapın; tablo, kart ve organizasyon şeması görünümü arasında geçin. Çalışan kaydına tıklayarak profilini açın.
 
 ## Çalışan ekleme
 

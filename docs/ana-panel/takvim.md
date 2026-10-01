@@ -5,7 +5,7 @@ sidebar_position: 8
 
 # Takvim
 
-Sol menüden **[Takvim](https://kolik.co/dashboard/calendar)** sayfasını açın. Burada **resmî tatiller** ve **onaylı izinler** renkli işaretlerle görünür. Google Calendar veya Microsoft 365 bağlandıysa bağlı takvim etkinlikleri de kendi renkleriyle gösterilir. Üst araç çubuğundan bugün, önceki/sonraki dönem ve takvim görünümü arasında geçin; **yenile** simgesiyle verileri tekrar çekin.
+Sol menüden **[Takvim](https://app.kolik.co/dashboard/calendar)** sayfasını açın. Burada **resmî tatiller** ve **onaylı izinler** renkli işaretlerle görünür. Google Calendar veya Microsoft 365 bağlandıysa bağlı takvim etkinlikleri de kendi renkleriyle gösterilir. Üst araç çubuğundan bugün, önceki/sonraki dönem ve takvim görünümü arasında geçin; **yenile** simgesiyle verileri tekrar çekin.
 
 ## Kişisel takvim bağlama ve etkinlik ekleme
 

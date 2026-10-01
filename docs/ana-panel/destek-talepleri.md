@@ -5,7 +5,7 @@ sidebar_position: 5
 
 # Destek talepleri
 
-Sol menüden **[Destek Talepleri](https://kolik.co/dashboard/support-tickets)** sayfasını açın. Kuruluşu seçilmiş kullanıcı **Yeni Talep** oluşturabilir. Çalışan kendi taleplerini, şirket yöneticisi ve süper yönetici kuruluş taleplerinin tamamını görüp yanıtlayabilir. Listede konu, açıklama, kategori, durum, oluşturulma/güncellenme tarihi; yönetici görünümünde ayrıca gönderen ve atanan kişi bulunur.
+Sol menüden **[Destek Talepleri](https://app.kolik.co/dashboard/support-tickets)** sayfasını açın. Kuruluşu seçilmiş kullanıcı **Yeni Talep** oluşturabilir. Çalışan kendi taleplerini, şirket yöneticisi ve süper yönetici kuruluş taleplerinin tamamını görüp yanıtlayabilir. Listede konu, açıklama, kategori, durum, oluşturulma/güncellenme tarihi; yönetici görünümünde ayrıca gönderen ve atanan kişi bulunur.
 
 ## Yeni talep oluşturma
 

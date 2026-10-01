@@ -5,7 +5,7 @@ sidebar_position: 3
 
 # Araç takibi
 
-Etkin uygulamalardan **Araç Takibi**'ni seçin veya **[araç listesine](https://kolik.co/dashboard/fleet)** gidin. Bu ekran şirket yöneticisi rolü için tasarlanmıştır. Modülün sol menüsünde **Araçlar** ve **[Sistem Ayarları](https://kolik.co/dashboard/system-settings)** bulunur.
+Etkin uygulamalardan **Araç Takibi**'ni seçin veya **[araç listesine](https://app.kolik.co/dashboard/fleet)** gidin. Bu ekran şirket yöneticisi rolü için tasarlanmıştır. Modülün sol menüsünde **Araçlar** ve **[Sistem Ayarları](https://app.kolik.co/dashboard/system-settings)** bulunur.
 
 ## Araç listesi
 
@@ -19,4 +19,4 @@ Araç satırına tıklayın. Detaydaki sekmeler: **Genel Durum**, **Servis**, **
 
 ## Sistem Ayarları
 
-**[Sistem Ayarları](https://kolik.co/dashboard/system-settings)** ekranındaki iç kategorilerden lastik/akü markaları, servis yerleri ve türleri, araç markaları/türleri/renkleri/galerileri, araçla ilişkili kişiler, sigorta şirketleri ve tüzel kişileri yönetin. Liste türlerinde **Ekle**, satırdaki **Düzenle/Sil** simgeleri ve silme onayı kullanılır. Bu tanımlamalar araç ve servis formlarındaki seçenekleri besler.
+**[Sistem Ayarları](https://app.kolik.co/dashboard/system-settings)** ekranındaki iç kategorilerden lastik/akü markaları, servis yerleri ve türleri, araç markaları/türleri/renkleri/galerileri, araçla ilişkili kişiler, sigorta şirketleri ve tüzel kişileri yönetin. Liste türlerinde **Ekle**, satırdaki **Düzenle/Sil** simgeleri ve silme onayı kullanılır. Bu tanımlamalar araç ve servis formlarındaki seçenekleri besler.

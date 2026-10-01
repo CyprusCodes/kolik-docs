@@ -5,11 +5,9 @@ sidebar_position: 2
 
 # Yeni izin türü oluşturma
 
-Örneğin “Mazeret İzni” veya “Saatlik İzin” gibi özel bir türü [Yönetici Paneli → İzinler → İzin Türleri](https://kolik.co/dashboard/admin-panel?tab=leave&sub=leave-types) sayfasından oluşturun.
+Örneğin “Mazeret İzni” veya “Saatlik İzin” gibi özel bir türü [Yönetici Paneli → İzinler → İzin Türleri](https://app.kolik.co/dashboard/admin-panel?tab=leave&sub=leave-types) sayfasından oluşturun.
 
-![Yeni izin türü formundaki ad, not ve saatlik talep seçenekleri](/img/admin/leave-type-form.svg)
-
-*Formu açıklamak için hazırlanmış temsili görsel; gerçek ekran görüntüsü değildir.*
+![Yeni izin türü formundaki ad, not ve saatlik talep seçenekleri](/img/izin-kategoirisi-olustu.png)
 
 1. **İzin Türü Ekle** düğmesine basın.
 2. **İzin Türü Adı** alanına çalışanların anlayacağı bir ad yazın.
@@ -25,7 +23,7 @@ sidebar_position: 2
 Bu seçenek **izin hakkı miktarını belirlemez**. Örneğin “12 gün/yıl” hakkını, türü politikaya bağladıktan sonra o türün **Hak Ediş** kuralında ayarlarsınız. Ayrıca saatlik talebe izin vermek, her talebin saatlik olmasını zorunlu kılmaz.
 
 :::tip Yeni tür talep ekranında görünmüyorsa
-Önce [ilgili politikaya bağlandığını](./politika-ve-haklar.md) kontrol edin. Talep formu yalnızca çalışan için geçerli politikadaki izin türlerini listeler.
+Önce [ilgili politikaya bağlandığını](./politika-ve-haklar) kontrol edin. Talep formu yalnızca çalışan için geçerli politikadaki izin türlerini listeler.
 :::
 
 Ekranın üstündeki **Tümü / Varsayılan / Özel** filtreleri yalnızca tabloyu süzer. **Çalışan İzin Türü Ayarı** anahtarı ise varsayılan veya organizasyona özel türlerin kullanılmasına ilişkin tercihtir; filtreyle aynı şey değildir. Sistem varsayılan türleri bu ekrandan silinemez. Özel bir türü silmeden önce mevcut politika ve talepler üzerindeki etkisini değerlendirin.

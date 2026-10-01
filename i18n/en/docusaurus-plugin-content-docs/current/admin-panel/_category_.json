@@ -1,0 +1,8 @@
+{
+  "label": "Admin Panel",
+  "position": 2,
+  "link": {
+    "type": "doc",
+    "id": "admin-panel/index"
+  }
+}

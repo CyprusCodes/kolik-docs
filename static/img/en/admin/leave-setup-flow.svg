@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 300" role="img" aria-labelledby="title description">
+  <title id="title">Four steps from leave setup to request</title>
+  <desc id="description">Create a leave type, attach it to a policy, configure approval, and submit a request.</desc>
+  <rect width="1040" height="300" rx="26" fill="#f5f8fc"/>
+  <text x="48" y="57" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#17324d">Leave management: the setup order</text>
+  <text x="48" y="86" font-family="Arial, sans-serif" font-size="14" fill="#5c6b7a">Complete these four steps before an employee can use a new type.</text>
+  <g font-family="Arial, sans-serif">
+    <rect x="42" y="120" width="207" height="132" rx="18" fill="#e5f1ff" stroke="#b9d8fb"/>
+    <circle cx="72" cy="152" r="18" fill="#1976d2"/><text x="66" y="159" font-size="18" font-weight="700" fill="#fff">1</text>
+    <text x="58" y="196" font-size="17" font-weight="700" fill="#17324d">Create a type</text>
+    <text x="58" y="221" font-size="13" fill="#526476">Name · Note · Hourly</text>
+    <path d="M253 185h33m-9-8 9 8-9 8" fill="none" stroke="#7895ad" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="290" y="120" width="207" height="132" rx="18" fill="#e9f6ec" stroke="#bde2c5"/>
+    <circle cx="320" cy="152" r="18" fill="#2e9b57"/><text x="314" y="159" font-size="18" font-weight="700" fill="#fff">2</text>
+    <text x="306" y="196" font-size="17" font-weight="700" fill="#17324d">Attach to policy</text>
+    <text x="306" y="221" font-size="13" fill="#526476">Entitlement · Accrual</text>
+    <path d="M501 185h33m-9-8 9 8-9 8" fill="none" stroke="#7895ad" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="538" y="120" width="207" height="132" rx="18" fill="#fff1e9" stroke="#ffd0b6"/>
+    <circle cx="568" cy="152" r="18" fill="#ed7844"/><text x="562" y="159" font-size="18" font-weight="700" fill="#fff">3</text>
+    <text x="554" y="196" font-size="17" font-weight="700" fill="#17324d">Set approval</text>
+    <text x="554" y="221" font-size="13" fill="#526476">Who approves, and when?</text>
+    <path d="M749 185h33m-9-8 9 8-9 8" fill="none" stroke="#7895ad" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="786" y="120" width="207" height="132" rx="18" fill="#f3ecff" stroke="#d9c8f6"/>
+    <circle cx="816" cy="152" r="18" fill="#8358bb"/><text x="810" y="159" font-size="18" font-weight="700" fill="#fff">4</text>
+    <text x="802" y="196" font-size="17" font-weight="700" fill="#17324d">Request leave</text>
+    <text x="802" y="221" font-size="13" fill="#526476">Type · Dates · Balance</text>
+  </g>
+</svg>

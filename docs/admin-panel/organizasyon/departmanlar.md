@@ -5,9 +5,9 @@ sidebar_position: 1
 
 # Departman ayarları
 
-[Yönetici Paneli → Organizasyon Yapısı → Departmanlar](https://kolik.co/dashboard/admin-panel?tab=organization-structure&subTab=departments) sayfasında **Departman Ekle** ile yeni kayıt açabilir, mevcut bir departmanı düzenleyebilir veya adına/**Görüntüle** düğmesine tıklayarak detayına gidebilirsiniz.
+[Yönetici Paneli → Organizasyon Yapısı → Departmanlar](https://app.kolik.co/dashboard/admin-panel?tab=organization-structure&subTab=departments) sayfasında **Departman Ekle** ile yeni kayıt açabilir, mevcut bir departmanı düzenleyebilir veya adına/**Görüntüle** düğmesine tıklayarak detayına gidebilirsiniz.
 
-Detayda iki etkin sekme bulunur: **Kişiler** ve **İzin varsayılanları**. Kişiler sekmesi çalışan adı, pozisyonu ve işe giriş tarihini listeler. Departman bazlı **Onay akışı** sekmesi kodda mevcut olsa da şu anda gizlidir; organizasyonun [Onay Akışları](../izinler/onay-akisi.md) ekranıyla karıştırmayın.
+Detayda iki etkin sekme bulunur: **Kişiler** ve **İzin varsayılanları**. Kişiler sekmesi çalışan adı, pozisyonu ve işe giriş tarihini listeler. Departman bazlı **Onay akışı** sekmesi kodda mevcut olsa da şu anda gizlidir; organizasyonun [Onay Akışları](../izinler/onay-akisi) ekranıyla karıştırmayın.
 
 ![Departman varsayılanı ile mevcut çalışanların ayrı işlemler olduğunu gösteren şema](/img/admin/department-leave-defaults.svg)
 
@@ -29,4 +29,4 @@ Bu değişiklik **yalnızca gelecekteki işe alımları** etkiler; departmandaki
 Yeniden atama tek seferlik toplu işlemdir ve topluca geri alma düğmesi yoktur. Mevcut bakiyeler korunur; seçilen geçerlilik tarihinden itibaren uygulanacak politika kuralları değişir. Onaylamadan önce çalışan sayısını, hedef politikayı ve tarihi kontrol edin.
 :::
 
-Politikaya bağlı izin türü ve hak ediş kurallarını düzenlemek için [Politika ve izin hakları](../izinler/politika-ve-haklar.md) rehberine bakın.
+Politikaya bağlı izin türü ve hak ediş kurallarını düzenlemek için [Politika ve izin hakları](../izinler/politika-ve-haklar) rehberine bakın.

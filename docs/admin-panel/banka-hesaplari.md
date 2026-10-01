@@ -9,7 +9,7 @@ sidebar_position: 4
 
 *Temsili form şeması; gerçek ekran görüntüsü değildir.*
 
-[Yönetici Paneli → Şirket Banka Bilgileri](https://kolik.co/dashboard/admin-panel?tab=company-banking) ekranında banka, hesap bilgileri, hesap sahibi, iletişim kişi sayısı, para birimi, durum ve oluşturulma tarihi listelenir. Listeyi **Yenile** ile güncelleyebilir ve sayfalayabilirsiniz.
+[Yönetici Paneli → Şirket Banka Bilgileri](https://app.kolik.co/dashboard/admin-panel?tab=company-banking) ekranında banka, hesap bilgileri, hesap sahibi, iletişim kişi sayısı, para birimi, durum ve oluşturulma tarihi listelenir. Listeyi **Yenile** ile güncelleyebilir ve sayfalayabilirsiniz.
 
 ## Hesap ekleme veya düzenleme
 

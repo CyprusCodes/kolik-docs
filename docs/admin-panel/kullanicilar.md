@@ -5,7 +5,7 @@ sidebar_position: 3
 
 # Kullanıcıları ve rollerini yönetme
 
-[Yönetici Paneli → Kullanıcılar](https://kolik.co/dashboard/admin-panel?tab=users) sayfası kullanıcı adı, e-posta, rol, durum ve oluşturulma tarihini listeler. Arama kutusuyla kişi arayabilir; tablo sütunlarını filtreleyip sıralayabilir ve sayfalar arasında gezebilirsiniz.
+[Yönetici Paneli → Kullanıcılar](https://app.kolik.co/dashboard/admin-panel?tab=users) sayfası kullanıcı adı, e-posta, rol, durum ve oluşturulma tarihini listeler. Arama kutusuyla kişi arayabilir; tablo sütunlarını filtreleyip sıralayabilir ve sayfalar arasında gezebilirsiniz.
 
 ## Rol veya durum değiştirme
 

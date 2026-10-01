@@ -1,0 +1,8 @@
+{
+  "label": "Apps",
+  "position": 3,
+  "link": {
+    "type": "doc",
+    "id": "uygulamalar/index"
+  }
+}

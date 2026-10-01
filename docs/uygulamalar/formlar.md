@@ -5,7 +5,7 @@ sidebar_position: 10
 
 # Formlar
 
-Etkin uygulamalardan **Formlar**'ı seçin veya **[form listesine](https://kolik.co/dashboard/forms)** gidin. Ayrı bir modül sol menüsü yoktur; form oluşturucu ve gönderimler form satırından açılır.
+Etkin uygulamalardan **Formlar**'ı seçin veya **[form listesine](https://app.kolik.co/dashboard/forms)** gidin. Ayrı bir modül sol menüsü yoktur; form oluşturucu ve gönderimler form satırından açılır.
 
 ## Yeni form ve düzenleme
 

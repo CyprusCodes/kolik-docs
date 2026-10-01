@@ -5,7 +5,7 @@ sidebar_position: 4
 
 # Bildirim tercihleri
 
-**[Hesabım → Bildirimler](https://kolik.co/dashboard/account?tab=notifications)** sekmesinde almak istediğiniz bildirimleri anahtarlarla açıp kapatın. Değişikliklerin geçerli olması için alttaki **Kaydet** düğmesine basın; anahtarı çevirmek tek başına kaydetmez.
+**[Hesabım → Bildirimler](https://app.kolik.co/dashboard/account?tab=notifications)** sekmesinde almak istediğiniz bildirimleri anahtarlarla açıp kapatın. Değişikliklerin geçerli olması için alttaki **Kaydet** düğmesine basın; anahtarı çevirmek tek başına kaydetmez.
 
 | Bildirim | Kimler görebilir? |
 | --- | --- |

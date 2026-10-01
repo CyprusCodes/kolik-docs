@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 340" role="img" aria-labelledby="title description">
+  <title id="title">Department leave policy assignment</title>
+  <desc id="description">A department default affects future hires; existing employees require a separate reassignment.</desc>
+  <rect width="980" height="340" rx="24" fill="#eff3f8"/>
+  <g font-family="Arial, sans-serif">
+    <text x="42" y="48" font-size="25" font-weight="700" fill="#173a62">After choosing a department policy</text>
+    <rect x="42" y="82" width="274" height="106" rx="16" fill="#fff" stroke="#cbd9e7" stroke-width="2"/>
+    <text x="63" y="120" font-size="19" font-weight="700" fill="#173a62">Leave defaults</text>
+    <text x="63" y="150" font-size="15" fill="#4c6176">Active policy + start date</text>
+    <path d="M316 135h58m-11-11 13 11-13 11" fill="none" stroke="#ef8050" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="385" y="82" width="552" height="106" rx="16" fill="#e6f3ec" stroke="#9acfb2" stroke-width="2"/>
+    <text x="408" y="120" font-size="19" font-weight="700" fill="#176745">Future hires</text>
+    <text x="408" y="150" font-size="15" fill="#395e4c">The selected policy applies from the chosen date.</text>
+    <rect x="42" y="215" width="895" height="91" rx="16" fill="#fff1e9" stroke="#edb894" stroke-width="2"/>
+    <text x="63" y="250" font-size="19" font-weight="700" fill="#8c4a2d">Existing employees need a separate action</text>
+    <text x="63" y="279" font-size="15" fill="#8c4a2d">Reassign employees → check the count and effective date → confirm.</text>
+  </g>
+</svg>
