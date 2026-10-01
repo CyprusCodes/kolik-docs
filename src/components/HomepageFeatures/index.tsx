@@ -1,5 +1,6 @@
 import clsx from "clsx";
 import Heading from "@theme/Heading";
+import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import styles from "./styles.module.css";
 
 type FeatureItem = {
@@ -56,11 +57,17 @@ function Feature({ title, Svg, description }: FeatureItem) {
 }
 
 export default function HomepageFeatures(): JSX.Element {
+  const { i18n } = useDocusaurusContext();
+  const features = i18n.currentLocale === "en" ? FeatureList : [
+    { ...FeatureList[0], title: "İzin Yönetimi", description: <>Tüm izin taleplerini ve türlerini tek bir yerden yönetin.</> },
+    { ...FeatureList[1], title: "Çalışan Yönetimi", description: <>Ekibinizi birkaç adımda ekleyin, davet edin ve düzenleyin. Çalışan bilgilerini güvenle saklayın.</> },
+    { ...FeatureList[2], title: "AI Asistan", description: <>İzin taleplerini, toplantı odası rezervasyonlarını ve destek taleplerini tek bir sohbetten yönetin.</> },
+  ];
   return (
     <section className={styles.features}>
       <div className="container">
         <div className="row">
-          {FeatureList.map((props, idx) => (
+          {features.map((props, idx) => (
             <Feature key={idx} {...props} />
           ))}
         </div>

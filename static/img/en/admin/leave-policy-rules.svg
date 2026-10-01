@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 310" role="img" aria-labelledby="title description">
+  <title id="title">Policy and leave type rules</title>
+  <desc id="description">Entitlement, accrual, carryover, and seniority are set on each type linked to a policy.</desc>
+  <rect width="980" height="310" rx="24" fill="#eff3f8"/>
+  <g font-family="Arial, sans-serif">
+    <text x="42" y="50" font-size="25" font-weight="700" fill="#173a62">Where is a leave type's allowance set?</text>
+    <rect x="42" y="82" width="254" height="142" rx="16" fill="#fff" stroke="#cbd9e7" stroke-width="2"/>
+    <text x="63" y="124" font-size="19" font-weight="700" fill="#173a62">Leave type catalog</text>
+    <text x="63" y="155" font-size="15" fill="#4c6176">Name, required note,</text>
+    <text x="63" y="180" font-size="15" fill="#4c6176">hourly request option</text>
+    <path d="M305 153h61m-14-11 14 11-14 11" fill="none" stroke="#ef8050" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="377" y="82" width="225" height="142" rx="16" fill="#fff" stroke="#cbd9e7" stroke-width="2"/>
+    <text x="399" y="124" font-size="19" font-weight="700" fill="#173a62">Leave policy</text>
+    <text x="399" y="155" font-size="15" fill="#4c6176">Attach leave types</text>
+    <text x="399" y="180" font-size="15" fill="#4c6176">→ Edit Rules</text>
+    <path d="M611 153h48m-14-11 14 11-14 11" fill="none" stroke="#ef8050" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="670" y="82" width="268" height="142" rx="16" fill="#e6f3ec" stroke="#9acfb2" stroke-width="2"/>
+    <text x="693" y="124" font-size="18" font-weight="700" fill="#176745">Type rules in policy</text>
+    <text x="693" y="155" font-size="15" fill="#395e4c">Entitlement · Accrual</text>
+    <text x="693" y="180" font-size="15" fill="#395e4c">Carryover · Seniority</text>
+    <rect x="42" y="247" width="896" height="39" rx="10" fill="#fff1e9"/>
+    <text x="60" y="272" font-size="15" fill="#8c4a2d">Allowing hourly requests does not automatically grant a day or hour balance.</text>
+  </g>
+</svg>

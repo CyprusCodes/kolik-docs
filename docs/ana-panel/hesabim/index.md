@@ -5,7 +5,7 @@ sidebar_position: 1
 
 # Hesabım ve profil ayarları
 
-Kolik'te sağ üstteki **profil simgesine** tıklayın; açılan menüde **Ayarlar**'ı seçin. Böylece **[Hesabım](https://kolik.co/dashboard/account)** sayfasına gidersiniz. Bu sayfa ana sol menünün sabit bir öğesi değildir.
+Kolik'te sağ üstteki **profil simgesine** tıklayın; açılan menüde **Ayarlar**'ı seçin. Böylece **[Hesabım](https://app.kolik.co/dashboard/account)** sayfasına gidersiniz. Bu sayfa ana sol menünün sabit bir öğesi değildir.
 
 ![Hesabım sayfasının sekmeleri ve işlemleri](/img/dashboard/account-settings-map.svg)
 
@@ -13,12 +13,12 @@ Kolik'te sağ üstteki **profil simgesine** tıklayın; açılan menüde **Ayarl
 
 | Sekme | Neler yapılır? |
 | --- | --- |
-| [Genel](./genel.md) | Profil fotoğrafı, ad-soyad, doğum tarihi, kişisel bilgiler ve acil durum kişileri. |
-| [Banka Bilgileri](./banka-bilgileri.md) | Maaş ödemesinde kullanılacak banka hesaplarını ekleme/düzenleme ve durumlarını görme. |
-| [Bildirimler](./bildirimler.md) | İzin, destek, toplantı, belge ve diğer bildirim tercihleri. |
-| [Şifre Değiştir](./sifre-degistir.md) | Mevcut şifreyi kullanarak yeni şifre belirleme. |
+| [Genel](./genel) | Profil fotoğrafı, ad-soyad, doğum tarihi, kişisel bilgiler ve acil durum kişileri. |
+| [Banka Bilgileri](./banka-bilgileri) | Maaş ödemesinde kullanılacak banka hesaplarını ekleme/düzenleme ve durumlarını görme. |
+| [Bildirimler](./bildirimler) | İzin, destek, toplantı, belge ve diğer bildirim tercihleri. |
+| [Şifre Değiştir](./sifre-degistir) | Mevcut şifreyi kullanarak yeni şifre belirleme. |
 
-Sekmeler kullanıcı hesabına aittir; şirket geneli kurallar için [Yönetici Paneli](../../admin-panel/index.md) kullanılır. Banka ve kişisel bilgi kartları, seçili kuruluştaki çalışan kaydınızla ilişkilendirilir. Bu kayıt bulunamazsa bazı kartlar görünmeyebilir veya bilgi uyarısı çıkabilir.
+Sekmeler kullanıcı hesabına aittir; şirket geneli kurallar için [Yönetici Paneli](../../admin-panel/) kullanılır. Banka ve kişisel bilgi kartları, seçili kuruluştaki çalışan kaydınızla ilişkilendirilir. Bu kayıt bulunamazsa bazı kartlar görünmeyebilir veya bilgi uyarısı çıkabilir.
 
 :::info Görünen özellikler
 Kod tabanında faturalandırma, ekip yönetimi ve giriş geçmişi için ayrı bileşenler bulunsa da bunlar bu sayfanın etkin sekmeleri arasında değildir. Rehber yalnızca şu anda açılabilen dört sekmeyi anlatır.

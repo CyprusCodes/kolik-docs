@@ -1,0 +1,26 @@
+{
+  "sidebar.tutorialSidebar.category.Yönetici Paneli": {
+    "message": "Admin Panel",
+    "description": "The label for category Yönetici Paneli in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.İzinler": {
+    "message": "Leave",
+    "description": "The label for category İzinler in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Organizasyon Yapısı": {
+    "message": "Organization Structure",
+    "description": "The label for category Organizasyon Yapısı in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Ana Panel ve Sol Menü": {
+    "message": "Dashboard and Sidebar",
+    "description": "The label for category Ana Panel ve Sol Menü in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Hesabım": {
+    "message": "My Account",
+    "description": "The label for category Hesabım in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Uygulamalar": {
+    "message": "Apps",
+    "description": "The label for category Uygulamalar in sidebar tutorialSidebar"
+  }
+}

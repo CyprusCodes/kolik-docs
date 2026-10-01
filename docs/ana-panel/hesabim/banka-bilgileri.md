@@ -5,7 +5,7 @@ sidebar_position: 3
 
 # Banka bilgileri
 
-**[Hesabım → Banka Bilgileri](https://kolik.co/dashboard/account?tab=bank-details)** sekmesinde maaş ödemeleri için kayıtlı hesaplarınız listelenir. Hesap kartında banka, hesap numarası/IBAN, para birimi ve **Aktif/Pasif** durumu görülebilir. Hiç aktif hesap yoksa sayfada uyarı gösterilir. Sağdaki bilgi kartları kullanım ve güvenlik açıklamalarıdır; ayrı bir ayar işlemi yapmaz.
+**[Hesabım → Banka Bilgileri](https://app.kolik.co/dashboard/account?tab=bank-details)** sekmesinde maaş ödemeleri için kayıtlı hesaplarınız listelenir. Hesap kartında banka, hesap numarası/IBAN, para birimi ve **Aktif/Pasif** durumu görülebilir. Hiç aktif hesap yoksa sayfada uyarı gösterilir. Sağdaki bilgi kartları kullanım ve güvenlik açıklamalarıdır; ayrı bir ayar işlemi yapmaz.
 
 ## Yeni banka hesabı ekleme
 

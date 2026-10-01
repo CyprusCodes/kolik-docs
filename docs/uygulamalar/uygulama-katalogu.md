@@ -5,7 +5,7 @@ sidebar_position: 2
 
 # Uygulama kataloğu ve erişim
 
-**[Uygulamalar sayfasını](https://kolik.co/dashboard/apps)** açın. Kartlarda uygulamanın adı, açıklaması, kategorisi ve varsa **Beta** etiketi bulunur. Sıralama katalogdaki görüntüleme sırasına göredir. Bu sayfaya şirket yöneticisi veya süper yönetici erişebilir.
+**[Uygulamalar sayfasını](https://app.kolik.co/dashboard/apps)** açın. Kartlarda uygulamanın adı, açıklaması, kategorisi ve varsa **Beta** etiketi bulunur. Sıralama katalogdaki görüntüleme sırasına göredir. Bu sayfaya şirket yöneticisi veya süper yönetici erişebilir.
 
 ## Mevcut uygulamayı açma veya kapatma
 

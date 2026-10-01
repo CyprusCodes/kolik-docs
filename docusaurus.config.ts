@@ -4,7 +4,7 @@ import type * as Preset from "@docusaurus/preset-classic";
 
 const config: Config = {
   title: "Kolik",
-  tagline: "Manage all your HR processes from one central dashboard.",
+  tagline: "Tüm İK süreçlerinizi tek bir merkezden yönetin.",
   favicon: "img/kolik-favicon.svg",
 
   // Set the production url of your site here
@@ -21,12 +21,13 @@ const config: Config = {
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
 
-  // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang. For example, if your site is Chinese, you
-  // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: "en",
-    locales: ["en"],
+    defaultLocale: "tr",
+    locales: ["tr", "en"],
+    localeConfigs: {
+      tr: { label: "Türkçe", htmlLang: "tr-TR" },
+      en: { label: "English", htmlLang: "en-US" },
+    },
   },
 
   presets: [
@@ -86,9 +87,10 @@ const config: Config = {
           type: "docSidebar",
           sidebarId: "tutorialSidebar",
           position: "left",
-          label: "Documentation",
+          label: "Dokümantasyon",
         },
         { to: "/blog", label: "Blog", position: "left" },
+        { type: "localeDropdown", position: "right" },
         {
           href: "https://github.com/CyprusCodes/kolik-docs",
           label: "GitHub",

@@ -5,7 +5,7 @@ sidebar_position: 7
 
 # Bordro
 
-Yetkili kullanıcı sol menüden **[Bordro](https://kolik.co/dashboard/payroll)** ekranını açar. Şirket yöneticisi, süper yönetici, İK yöneticisi veya muhasebe yöneticisi gibi bordro yönetim rollerine göre erişim sağlanır. Bu ekranda **Bordro Grupları** ve **Bordro Çalışmaları** sekmeleri bulunur.
+Yetkili kullanıcı sol menüden **[Bordro](https://app.kolik.co/dashboard/payroll)** ekranını açar. Şirket yöneticisi, süper yönetici, İK yöneticisi veya muhasebe yöneticisi gibi bordro yönetim rollerine göre erişim sağlanır. Bu ekranda **Bordro Grupları** ve **Bordro Çalışmaları** sekmeleri bulunur.
 
 ## Bordro grupları
 
@@ -19,4 +19,4 @@ Yetkili kullanıcı sol menüden **[Bordro](https://kolik.co/dashboard/payroll)*
 Grup/çalışma listesi getirilemezse ekrandaki hata uyarısını kontrol edip kuruluşu ve rolünüzü doğrulayın. Yeni çalışma penceresinde grup seçimi ve diğer zorunlu alanlar tamamlanmadan kaydedilemez. **Başarısız** filtredeki kayıtları yeniden işleme almadan önce ilgili çalışma ayrıntısını ve oluşan belgeleri inceleyin.
 :::
 
-**Bordro** menüsünü [Zaman Çizelgeleri uygulamasındaki](../uygulamalar/zaman-cizelgeleri.md) çalışma kaydı ve bordro ayarları sayfalarıyla karıştırmayın.
+**Bordro** menüsünü [Zaman Çizelgeleri uygulamasındaki](../uygulamalar/zaman-cizelgeleri) çalışma kaydı ve bordro ayarları sayfalarıyla karıştırmayın.

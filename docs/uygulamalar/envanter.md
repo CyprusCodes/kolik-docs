@@ -5,7 +5,7 @@ sidebar_position: 4
 
 # Envanter
 
-Etkin uygulamalardan **Envanter**'i seçin veya **[envanter sayfasını](https://kolik.co/dashboard/inventory)** açın. Bu modülde ayrı bir modül sol menüsü yerine sayfa içindeki filtreler ve kayıt işlemleri kullanılır.
+Etkin uygulamalardan **Envanter**'i seçin veya **[envanter sayfasını](https://app.kolik.co/dashboard/inventory)** açın. Bu modülde ayrı bir modül sol menüsü yerine sayfa içindeki filtreler ve kayıt işlemleri kullanılır.
 
 ## Öğe ekleme ve düzenleme
 

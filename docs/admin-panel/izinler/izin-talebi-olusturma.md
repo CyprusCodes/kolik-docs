@@ -5,11 +5,9 @@ sidebar_position: 8
 
 # İzin talebi oluşturma
 
-[İzin Talepleri](https://kolik.co/dashboard/leaves) sayfasındaki **İzin Talebi Oluştur** düğmesini kullanın. İsterseniz [talep penceresini doğrudan açan bağlantıyı](https://kolik.co/dashboard/leaves?create=true) da kullanabilirsiniz.
+[İzin Talepleri](https://app.kolik.co/dashboard/leaves) sayfasındaki **İzin Talebi Oluştur** düğmesini kullanın. İsterseniz [talep penceresini doğrudan açan bağlantıyı](https://app.kolik.co/dashboard/leaves?create=true) da kullanabilirsiniz.
 
-![İzin talebi formundaki çalışan, izin türü, bakiye ve tarih alanları](/img/admin/leave-request-form.svg)
-
-*Alanların yerini anlatan temsili görsel; gerçek ekran görüntüsü değildir.*
+![İzin talebi formundaki çalışan, izin türü, bakiye ve tarih alanları](/img/izin-talebi-olustur.png)
 
 1. Yetkiniz varsa talebin yapılacağı **çalışanı** seçin. Normal kullanıcı kendi adına talep oluşturur.
 2. **İzin Türü** seçin. Bu liste, seçili çalışan için geçerli izin politikasından gelir.
@@ -31,4 +29,4 @@ sidebar_position: 8
 | **Kalan bakiyeyi aşıyor** | Kullanılabilir hak, birikmiş miktar ve varsa eksi bakiye kuralını kontrol edin. Sistem son kararı sunucuda doğrular. |
 | Saat seçimi görünmüyor | İzin türündeki **Saatlik Talebe İzin Ver** ayarı kapalıdır; türü kontrol edin. |
 
-Talep oluşturulduktan sonra kayıt [İzin Talepleri](https://kolik.co/dashboard/leaves) ekranından izlenebilir.
+Talep oluşturulduktan sonra kayıt [İzin Talepleri](https://app.kolik.co/dashboard/leaves) ekranından izlenebilir.

@@ -5,7 +5,7 @@ sidebar_position: 1
 
 # Ehliyet sınıflarını yönetme
 
-[Yönetici Paneli → Organizasyon Yapısı → Ehliyet Sınıfları](https://kolik.co/dashboard/admin-panel?tab=organization-structure&subTab=license-classes) sayfasında kurumunuzun kullandığı ehliyet sınıflarını düzenleyin.
+[Yönetici Paneli → Organizasyon Yapısı → Ehliyet Sınıfları](https://app.kolik.co/dashboard/admin-panel?tab=organization-structure&subTab=license-classes) sayfasında kurumunuzun kullandığı ehliyet sınıflarını düzenleyin.
 
 - **Ehliyet Sınıfı Ekle** ile ad girip yeni sınıf oluşturun.
 - Listede **Düzenle** ile sınıf adını değiştirin.

@@ -5,7 +5,7 @@ sidebar_position: 8
 
 # Raporlar
 
-Etkin uygulamalardan **Raporlar**'ı seçin veya **[rapor oluşturucuyu](https://kolik.co/dashboard/reports)** açın. Bu modülde ayrı bir iç sol menü yoktur; rapor türü, alanlar ve sonuçlar aynı sayfada yönetilir.
+Etkin uygulamalardan **Raporlar**'ı seçin veya **[rapor oluşturucuyu](https://app.kolik.co/dashboard/reports)** açın. Bu modülde ayrı bir iç sol menü yoktur; rapor türü, alanlar ve sonuçlar aynı sayfada yönetilir.
 
 ## Rapor oluşturma
 

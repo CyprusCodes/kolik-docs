@@ -5,7 +5,7 @@ sidebar_position: 5
 
 # Resmî tatilleri yönetme
 
-[Yönetici Paneli → Resmî Tatiller](https://kolik.co/dashboard/admin-panel?tab=national-holidays) tatil adı, tarih aralığı, türü, kalan gün, durum ve işlemleri gösterir.
+[Yönetici Paneli → Resmî Tatiller](https://app.kolik.co/dashboard/admin-panel?tab=national-holidays) tatil adı, tarih aralığı, türü, kalan gün, durum ve işlemleri gösterir.
 
 ## Tatil ekleme
 
@@ -15,4 +15,4 @@ sidebar_position: 5
 4. Türü **Ulusal**, **Dinî** veya **Kültürel** olarak seçin; isteğe bağlı açıklama yazın.
 5. **Ekle**'ye basın.
 
-Var olan tatilin **düzenle** simgesinden aynı alanları güncelleyebilir; **sil** simgesinden açılan onay penceresiyle kaydı silebilirsiniz. Bir izin talebine denk gelen tatilin bakiyeden düşülüp düşülmeyeceği ayrıca ilgili [izin politikasının hesaplama ayarlarında](./izinler/politika-hesaplama-ayarlari.md) belirlenir.
+Var olan tatilin **düzenle** simgesinden aynı alanları güncelleyebilir; **sil** simgesinden açılan onay penceresiyle kaydı silebilirsiniz. Bir izin talebine denk gelen tatilin bakiyeden düşülüp düşülmeyeceği ayrıca ilgili [izin politikasının hesaplama ayarlarında](./izinler/politika-hesaplama-ayarlari) belirlenir.

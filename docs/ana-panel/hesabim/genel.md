@@ -5,7 +5,7 @@ sidebar_position: 2
 
 # Genel profil bilgileri
 
-**[Hesabım → Genel](https://kolik.co/dashboard/account?tab=general)** sekmesi üç kart içerir: **Temel Bilgiler**, **Kişisel Bilgiler** ve **Acil Durum Kişileri**. Son iki kart, seçili kuruluşta hesabınıza bağlı çalışan kaydı varsa görünür.
+**[Hesabım → Genel](https://app.kolik.co/dashboard/account?tab=general)** sekmesi üç kart içerir: **Temel Bilgiler**, **Kişisel Bilgiler** ve **Acil Durum Kişileri**. Son iki kart, seçili kuruluşta hesabınıza bağlı çalışan kaydı varsa görünür.
 
 ## Fotoğraf, ad ve doğum tarihi
 

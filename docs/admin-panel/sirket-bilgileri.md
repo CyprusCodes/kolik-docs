@@ -5,7 +5,7 @@ sidebar_position: 2
 
 # Şirket bilgilerini yönetme
 
-[Yönetici Paneli → Şirket Bilgileri](https://kolik.co/dashboard/admin-panel?tab=company-details) şirket adı, faaliyet türü, web sitesi ve ülkeyi gösterir. **Düzenle** düğmesi şirket yöneticilerine görünür.
+[Yönetici Paneli → Şirket Bilgileri](https://app.kolik.co/dashboard/admin-panel?tab=company-details) şirket adı, faaliyet türü, web sitesi ve ülkeyi gösterir. **Düzenle** düğmesi şirket yöneticilerine görünür.
 
 1. **Düzenle**'ye basın.
 2. **Şirket adı**, **web sitesi**, **faaliyet türü** ve **ülke** alanlarını kontrol edip değiştirin. Web sitesi geçerli bir adres olmalıdır.

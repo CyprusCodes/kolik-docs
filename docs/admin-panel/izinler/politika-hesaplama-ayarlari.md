@@ -5,7 +5,7 @@ sidebar_position: 5
 
 # Çalışma takvimi ve izin hesabı
 
-[İzin Politikaları](https://kolik.co/dashboard/admin-panel?tab=leave&sub=policies) içinden ilgili politikayı açıp **Hesaplama Ayarları** sekmesine geçin. Bu ayarlar **seçilen politikaya özeldir**; başka bir politikanın gün/saat düzenini otomatik değiştirmez.
+[İzin Politikaları](https://app.kolik.co/dashboard/admin-panel?tab=leave&sub=policies) içinden ilgili politikayı açıp **Hesaplama Ayarları** sekmesine geçin. Bu ayarlar **seçilen politikaya özeldir**; başka bir politikanın gün/saat düzenini otomatik değiştirmez.
 
 ## Çalışma programı
 

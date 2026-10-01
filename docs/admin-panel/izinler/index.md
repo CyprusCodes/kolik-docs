@@ -15,16 +15,16 @@ Bu rehber, bir izin türünü tanımlamaktan çalışanın izin talebi gönderme
 
 | İşlem | Kolik ekranı | Rehber |
 | --- | --- | --- |
-| “Yıllık izin”, “Saatlik izin” gibi bir ad tanımlama | [Yönetici Paneli → İzinler → İzin Türleri](https://kolik.co/dashboard/admin-panel?tab=leave&sub=leave-types) | [İzin türü oluşturma](./izin-turu-olusturma.md) |
-| Türün hak edişini, ücretli/ücretsiz oluşunu ve birikimini belirleme | [Yönetici Paneli → İzinler → Politikalar](https://kolik.co/dashboard/admin-panel?tab=leave&sub=policies) | [Politika ve haklar](./politika-ve-haklar.md) |
-| Politika içindeki bir türün ayrıntılı kurallarını ayarlama | Politika → **İzin Türleri** → **Kuralları düzenle** | [İzin türü kuralları](./izin-turu-kurallari.md) |
-| Çalışma günlerini, saatleri ve tatil sayımını ayarlama | Politika → **Hesaplama Ayarları** | [Hesaplama ayarları](./politika-hesaplama-ayarlari.md) |
-| Yeni işe alımlar için departman varsayılanını belirleme | [Organizasyon Yapısı → Departmanlar](https://kolik.co/dashboard/admin-panel?tab=organization-structure&subTab=departments) | [Departmanlar](../organizasyon/departmanlar.md) |
-| Onaylayacak kişilerin sırasını belirleme | [Yönetici Paneli → İzinler → Onay Akışları](https://kolik.co/dashboard/admin-panel?tab=leave&sub=approval-workflows) | [Onay akışı](./onay-akisi.md) |
-| Çalışanın politikasını atama, bakiyesini ve geçmişini inceleme | [Çalışanlar](https://kolik.co/dashboard/employees) → çalışan profili → **İzinler** | [Çalışan politikası, bakiye ve geçmiş](./calisan-politikasi-bakiye.md) |
-| Çalışan adına veya kendiniz için talep gönderme | [İzin Talepleri](https://kolik.co/dashboard/leaves) | [İzin talebi oluşturma](./izin-talebi-olusturma.md) |
-| Talebi görüntüleme, düzenleme, iptal etme veya onaylama | [İzin Talepleri](https://kolik.co/dashboard/leaves) | [Talep takibi ve onay](./talep-takibi-ve-onay.md) |
-| Geçmişte kullanılmış izinleri CSV ile kaydetme | [İzin Talepleri](https://kolik.co/dashboard/leaves) → oluşturma düğmesinin yanındaki menü | [Kullanılmış izinleri toplu içe aktarma](./kullanilmis-izinleri-ice-aktarma.md) |
+| “Yıllık izin”, “Saatlik izin” gibi bir ad tanımlama | [Yönetici Paneli → İzinler → İzin Türleri](https://app.kolik.co/dashboard/admin-panel?tab=leave&sub=leave-types) | [İzin türü oluşturma](./izin-turu-olusturma) |
+| Türün hak edişini, ücretli/ücretsiz oluşunu ve birikimini belirleme | [Yönetici Paneli → İzinler → Politikalar](https://app.kolik.co/dashboard/admin-panel?tab=leave&sub=policies) | [Politika ve haklar](./politika-ve-haklar) |
+| Politika içindeki bir türün ayrıntılı kurallarını ayarlama | Politika → **İzin Türleri** → **Kuralları düzenle** | [İzin türü kuralları](./izin-turu-kurallari) |
+| Çalışma günlerini, saatleri ve tatil sayımını ayarlama | Politika → **Hesaplama Ayarları** | [Hesaplama ayarları](./politika-hesaplama-ayarlari) |
+| Yeni işe alımlar için departman varsayılanını belirleme | [Organizasyon Yapısı → Departmanlar](https://app.kolik.co/dashboard/admin-panel?tab=organization-structure&subTab=departments) | [Departmanlar](../organizasyon/departmanlar) |
+| Onaylayacak kişilerin sırasını belirleme | [Yönetici Paneli → İzinler → Onay Akışları](https://app.kolik.co/dashboard/admin-panel?tab=leave&sub=approval-workflows) | [Onay akışı](./onay-akisi) |
+| Çalışanın politikasını atama, bakiyesini ve geçmişini inceleme | [Çalışanlar](https://app.kolik.co/dashboard/employees) → çalışan profili → **İzinler** | [Çalışan politikası, bakiye ve geçmiş](./calisan-politikasi-bakiye) |
+| Çalışan adına veya kendiniz için talep gönderme | [İzin Talepleri](https://app.kolik.co/dashboard/leaves) | [İzin talebi oluşturma](./izin-talebi-olusturma) |
+| Talebi görüntüleme, düzenleme, iptal etme veya onaylama | [İzin Talepleri](https://app.kolik.co/dashboard/leaves) | [Talep takibi ve onay](./talep-takibi-ve-onay) |
+| Geçmişte kullanılmış izinleri CSV ile kaydetme | [İzin Talepleri](https://app.kolik.co/dashboard/leaves) → oluşturma düğmesinin yanındaki menü | [Kullanılmış izinleri toplu içe aktarma](./kullanilmis-izinleri-ice-aktarma) |
 
 :::important İzin türü tek başına hak vermez
 Yeni türü oluşturduğunuzda yalnızca katalogda bir kayıt açılır. Çalışanın talep formunda kullanılabilmesi için türü çalışanın geçerli **izin politikasına bağlayın** ve o türün hak ediş kurallarını kaydedin. Çalışanın talep ekranı organizasyondaki bütün türleri değil, kendisine uygulanan politikadaki türleri gösterir.

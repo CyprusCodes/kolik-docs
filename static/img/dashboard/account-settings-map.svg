@@ -7,7 +7,7 @@
   <circle cx="73" cy="65" r="8" fill="#143b59"/>
   <path d="M59 87c2-11 26-11 28 0" fill="#143b59"/>
   <text x="115" y="82" font-family="Arial,sans-serif" font-size="25" font-weight="bold" fill="#ffffff">Profil simgesi  →  Ayarlar  →  Hesabım</text>
-  <text x="852" y="82" font-family="Arial,sans-serif" font-size="16" fill="#d8edf7">kolik.co/dashboard/account</text>
+  <text x="825" y="82" font-family="Arial,sans-serif" font-size="16" fill="#d8edf7">app.kolik.co/dashboard/account</text>
   <g font-family="Arial,sans-serif">
     <rect x="31" y="145" width="267" height="236" rx="18" fill="#ffffff" stroke="#cfe1eb" stroke-width="2"/>
     <rect x="31" y="145" width="267" height="12" rx="6" fill="#2aa99b"/>
