@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 620" role="img" aria-labelledby="title description">
+  <title id="title">İzin Talebi Oluştur formunun bölümleri</title>
+  <desc id="description">Çalışan, izin türü, bakiye, tarih-saat, düşülecek süre ve not alanları sıralanmıştır.</desc>
+  <rect width="960" height="620" rx="24" fill="#eff3f8"/>
+  <rect x="132" y="30" width="696" height="558" rx="18" fill="#fff" stroke="#d6e0ea" stroke-width="2"/>
+  <rect x="132" y="30" width="696" height="68" rx="18" fill="#173a62"/>
+  <rect x="132" y="80" width="696" height="18" fill="#173a62"/>
+  <text x="170" y="74" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#fff">İzin Talebi Oluştur</text>
+  <g font-family="Arial, sans-serif">
+    <text x="170" y="132" font-size="14" font-weight="700" fill="#31485e">Çalışan (yetkiniz varsa)</text>
+    <rect x="170" y="143" width="620" height="42" rx="7" fill="#fff" stroke="#b5c4d1"/>
+    <text x="185" y="171" font-size="15" fill="#5e7285">Talep yapılacak çalışanı seçin</text>
+    <path d="m763 160 7 7 7-7" fill="none" stroke="#64758a" stroke-width="2"/>
+
+    <text x="170" y="218" font-size="14" font-weight="700" fill="#31485e">İzin Türü</text>
+    <rect x="170" y="228" width="620" height="42" rx="7" fill="#fff" stroke="#b5c4d1"/>
+    <text x="185" y="256" font-size="15" fill="#5e7285">Politikanızdaki izin türünü seçin</text>
+    <path d="m763 245 7 7 7-7" fill="none" stroke="#64758a" stroke-width="2"/>
+
+    <rect x="170" y="286" width="620" height="51" rx="8" fill="#e8f5ef" stroke="#b7e3c9"/>
+    <text x="187" y="317" font-size="16" font-weight="700" fill="#246844">Kullanılabilir İzin Bakiyesi: 12 / 14 gün</text>
+
+    <text x="170" y="370" font-size="14" font-weight="700" fill="#31485e">Başlangıç</text>
+    <text x="490" y="370" font-size="14" font-weight="700" fill="#31485e">Bitiş</text>
+    <rect x="170" y="381" width="296" height="42" rx="7" fill="#fff" stroke="#b5c4d1"/>
+    <rect x="490" y="381" width="300" height="42" rx="7" fill="#fff" stroke="#b5c4d1"/>
+    <text x="186" y="408" font-size="15" fill="#5e7285">Tarih ve saat</text>
+    <text x="506" y="408" font-size="15" fill="#5e7285">Tarih ve saat</text>
+
+    <rect x="170" y="437" width="620" height="40" rx="8" fill="#edf5ff"/>
+    <text x="187" y="463" font-size="15" font-weight="700" fill="#1c5d99">Düşülecek: 3 saat</text>
+    <text x="170" y="509" font-size="14" font-weight="700" fill="#31485e">Not (tür gerektiriyorsa zorunlu)</text>
+    <rect x="170" y="521" width="470" height="42" rx="7" fill="#fff" stroke="#b5c4d1"/>
+    <rect x="664" y="521" width="126" height="42" rx="8" fill="#1976d2"/>
+    <text x="696" y="548" font-size="16" font-weight="700" fill="#fff">Gönder</text>
+  </g>
+</svg>

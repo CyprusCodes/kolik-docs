@@ -1,0 +1,8 @@
+{
+  "label": "Yönetici Paneli",
+  "position": 2,
+  "link": {
+    "type": "doc",
+    "id": "admin-panel/index"
+  }
+}

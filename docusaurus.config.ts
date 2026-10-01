@@ -54,6 +54,25 @@ const config: Config = {
     ],
   ],
 
+  themes: [
+    [
+      require.resolve("@easyops-cn/docusaurus-search-local"),
+      {
+        hashed: true,
+        indexDocs: true,
+        indexBlog: true,
+        indexPages: true,
+        // Most guides are Turkish; avoid English stemming changing search terms.
+        removeDefaultStemmer: true,
+        removeDefaultStopWordFilter: true,
+        highlightSearchTermsOnTargetPage: true,
+        searchResultLimits: 10,
+        searchBarPosition: "right",
+        searchBarShortcut: false,
+      },
+    ],
+  ],
+
   themeConfig: {
     // Replace with your project's social card
     image: "img/docusaurus-social-card.jpg",

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 360" role="img" aria-labelledby="title description">
+  <title id="title">Yönetici Paneli sekme haritası</title>
+  <desc id="description">Şirket, çalışan, izin ve sistem ayarları gruplarına ayrılmış Yönetici Paneli sekmeleri.</desc>
+  <rect width="980" height="360" rx="24" fill="#eff3f8"/>
+  <g font-family="Arial, sans-serif">
+    <text x="40" y="49" font-size="26" font-weight="700" fill="#173a62">Yönetici Paneli'nde nereye gitmeliyim?</text>
+    <rect x="40" y="82" width="432" height="109" rx="16" fill="#fff" stroke="#cbd9e7" stroke-width="2"/>
+    <rect x="508" y="82" width="432" height="109" rx="16" fill="#e6f3ec" stroke="#9acfb2" stroke-width="2"/>
+    <rect x="40" y="216" width="432" height="109" rx="16" fill="#fff1e9" stroke="#edb894" stroke-width="2"/>
+    <rect x="508" y="216" width="432" height="109" rx="16" fill="#e9eafa" stroke="#b9bdeb" stroke-width="2"/>
+    <text x="63" y="116" font-size="20" font-weight="700" fill="#173a62">Şirket</text>
+    <text x="63" y="149" font-size="16" fill="#4c6176">Bilgiler · Banka hesapları · Tatiller</text>
+    <text x="531" y="116" font-size="20" font-weight="700" fill="#176745">Çalışanlar</text>
+    <text x="531" y="149" font-size="16" fill="#395e4c">Kullanıcılar · Organizasyon yapısı · Doğum günleri</text>
+    <text x="63" y="250" font-size="20" font-weight="700" fill="#8c4a2d">İzin ve çalışma</text>
+    <text x="63" y="283" font-size="16" fill="#8c4a2d">İzinler · Zaman çizelgeleri (etkinse)</text>
+    <text x="531" y="250" font-size="20" font-weight="700" fill="#484b8e">Sistem</text>
+    <text x="531" y="283" font-size="16" fill="#555887">Organizasyon ayarları · Etkinlik günlüğü</text>
+  </g>
+</svg>
